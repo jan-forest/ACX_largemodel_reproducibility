@@ -1,0 +1,148 @@
+{
+  "Dim48_GPT5.6_TerraPro_ontology": {
+    "dim01_energy_production": {
+      "dimension_name": "Core energy production and mitochondrial respiration"
+    },
+    "dim02_glucose_and_glycogen_handling": {
+      "dimension_name": "Glucose uptake, glycogen turnover, and pentose-phosphate metabolism"
+    },
+    "dim03_lipid_synthesis_and_storage": {
+      "dimension_name": "Fatty-acid synthesis, neutral-lipid storage, and lipid-droplet biology"
+    },
+    "dim04_cholesterol_and_steroid_metabolism": {
+      "dimension_name": "Cholesterol, steroid, bile-acid, and isoprenoid metabolism"
+    },
+    "dim05_amino_acid_metabolism": {
+      "dimension_name": "Amino-acid synthesis, degradation, and nitrogen handling"
+    },
+    "dim06_nucleotide_metabolism": {
+      "dimension_name": "Purine, pyrimidine, nucleotide-sugar, and nucleotide-salvage metabolism"
+    },
+    "dim07_redox_and_reactive_oxygen_control": {
+      "dimension_name": "Cellular redox state, glutathione metabolism, and reactive-oxygen defense"
+    },
+    "dim08_mitochondrial_organization": {
+      "dimension_name": "Mitochondrial biogenesis, dynamics, protein import, and quality control"
+    },
+    "dim09_peroxisomal_metabolism": {
+      "dimension_name": "Peroxisomal lipid oxidation, peroxide detoxification, and organelle maintenance"
+    },
+    "dim10_protein_synthesis": {
+      "dimension_name": "Ribosome biogenesis, translation initiation, elongation, and aminoacyl-tRNA charging"
+    },
+    "dim11_protein_folding_and_quality_control": {
+      "dimension_name": "Protein folding, chaperone activity, proteasomal degradation, and unfolded-protein response"
+    },
+    "dim12_autophagy_and_lysosomal_degradation": {
+      "dimension_name": "Autophagy, lysosomal digestion, endolysosomal trafficking, and macromolecule recycling"
+    },
+    "dim13_transcriptional_activity": {
+      "dimension_name": "RNA polymerase transcription, transcriptional regulation, and chromatin accessibility"
+    },
+    "dim14_rna_processing_and_splicing": {
+      "dimension_name": "RNA processing, splicing, editing, export, and turnover"
+    },
+    "dim15_dna_replication_and_repair": {
+      "dimension_name": "DNA replication, genome surveillance, DNA-damage response, and repair"
+    },
+    "dim16_cell_cycle_and_proliferation": {
+      "dimension_name": "Cell-cycle progression, mitosis, cytokinesis, and proliferative state"
+    },
+    "dim17_cellular_senescence_and_growth_arrest": {
+      "dimension_name": "Cellular senescence, quiescence, growth arrest, and checkpoint enforcement"
+    },
+    "dim18_programmed_cell_death": {
+      "dimension_name": "Apoptosis, necroptosis, ferroptosis, and regulated cell-death programs"
+    },
+    "dim19_hypoxia_and_nutrient_sensing": {
+      "dimension_name": "Oxygen sensing, hypoxic response, nutrient sensing, and mTOR/AMPK regulation"
+    },
+    "dim20_endoplasmic_reticulum_and_secretory_capacity": {
+      "dimension_name": "Endoplasmic-reticulum protein processing, secretory-pathway function, and vesicle export"
+    },
+    "dim21_membrane_transport_and_ion_homeostasis": {
+      "dimension_name": "Transmembrane transport, ion homeostasis, membrane potential, and electrochemical gradients"
+    },
+    "dim22_calcium_signaling_and_excitability": {
+      "dimension_name": "Calcium signaling, electrical excitability, synaptic release, and action-potential machinery"
+    },
+    "dim23_receptor_and_growth_factor_signaling": {
+      "dimension_name": "Cell-surface receptor, growth-factor, MAPK, PI3K, and developmental signaling"
+    },
+    "dim24_adhesion_and_extracellular_matrix": {
+      "dimension_name": "Cell adhesion, extracellular-matrix production, integrin signaling, and tissue anchoring"
+    },
+    "dim25_cytoskeleton_and_cell_motility": {
+      "dimension_name": "Actin, microtubule, intermediate-filament, polarity, and cell-migration programs"
+    },
+    "dim26_epithelial_identity_and_barrier_function": {
+      "dimension_name": "Epithelial differentiation, apical-basal polarity, junctions, and barrier function"
+    },
+    "dim27_mesenchymal_contractile_and_matrix_remodeling": {
+      "dimension_name": "Mesenchymal identity, contractility, extracellular-matrix remodeling, and wound repair"
+    },
+    "dim28_immune_antigen_presentation": {
+      "dimension_name": "Antigen processing, MHC presentation, T-cell stimulation, and adaptive immune activation"
+    },
+    "dim29_innate_immune_and_interferon_response": {
+      "dimension_name": "Innate immune sensing, interferon response, inflammatory signaling, and antiviral defense"
+    },
+    "dim30_phagocytosis_and_myeloid_effector_function": {
+      "dimension_name": "Phagocytosis, phagolysosomal killing, complement, and myeloid effector state"
+    },
+    "dim31_cytokine_and_chemokine_communication": {
+      "dimension_name": "Cytokine production, chemokine signaling, leukocyte recruitment, and inflammatory communication"
+    },
+    "dim32_hematopoietic_and_blood_cell_programs": {
+      "dimension_name": "Hematopoiesis, erythroid differentiation, platelet formation, and blood-cell specialization"
+    },
+    "dim33_neuronal_identity_and_synaptic_function": {
+      "dimension_name": "Neuronal differentiation, axon and dendrite development, synapse formation, and neurotransmission"
+    },
+    "dim34_glial_and_myelination_programs": {
+      "dimension_name": "Glial differentiation, myelination, axon support, and neuroimmune support functions"
+    },
+    "dim35_muscle_contraction": {
+      "dimension_name": "Skeletal, cardiac, and smooth-muscle contractile machinery and excitation-contraction coupling"
+    },
+    "dim36_vascular_endothelial_function": {
+      "dimension_name": "Endothelial differentiation, angiogenesis, vascular permeability, and vasomotor regulation"
+    },
+    "dim37_endocrine_hormone_secretion": {
+      "dimension_name": "Endocrine differentiation, peptide-hormone biosynthesis, granule formation, and hormone secretion"
+    },
+    "dim38_digestive_and_absorptive_function": {
+      "dimension_name": "Digestive enzyme production, nutrient absorption, xenobiotic handling, and intestinal transport"
+    },
+    "dim39_renal_and_osmoregulatory_function": {
+      "dimension_name": "Renal solute transport, water transport, acid-base balance, and osmoregulation"
+    },
+    "dim40_ciliogenesis_and_sensory_transduction": {
+      "dimension_name": "Cilium assembly, sensory signaling, phototransduction, and mechanosensory specialization"
+    },
+    "dim41_cellular_detoxification_and_xenobiotic_metabolism": {
+      "dimension_name": "Cellular detoxification, xenobiotic metabolism, conjugation, and drug export"
+    },
+    "dim42_glycosylation_and_glycan_remodeling": {
+      "dimension_name": "Protein glycosylation, glycan synthesis, glycan degradation, and cell-surface glycome remodeling"
+    },
+    "dim43_lipid_mediator_and_inflammatory_eicosanoid_metabolism": {
+      "dimension_name": "Eicosanoid production, lipid mediators, prostaglandins, leukotrienes, and inflammatory lipid signaling"
+    },
+    "dim44_circadian_and_temporal_regulation": {
+      "dimension_name": "Circadian-clock function, rhythmic transcription, and temporal physiological regulation"
+    },
+    "dim45_developmental_lineage_and_morphogenesis": {
+      "dimension_name": "Developmental lineage specification, morphogenesis, organogenesis, and differentiation potential"
+    },
+    "dim46_cell_stress_and_damage_response": {
+      "dimension_name": "Heat-shock, osmotic, ER, genotoxic, and general cellular stress-response programs"
+    },
+    "dim47_viral_defense_and_host_pathogen_interaction": {
+      "dimension_name": "Host-pathogen interaction, antiviral restriction, antimicrobial defense, and pathogen-response programs"
+    },
+    "dim48_intercellular_communication_and_tissue_homeostasis": {
+      "dimension_name": "Intercellular communication, gap junctions, paracrine signaling, tissue maintenance, and regeneration"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "Dim16_GPT5.6_TerraPro_ontology": {
+    "dim01_energy_production_and_central_catabolism": {
+      "dimension_name": "Energy production and central carbon catabolism"
+    },
+    "dim02_anabolic_biosynthesis_and_biomass_generation": {
+      "dimension_name": "Anabolic biosynthesis and biomass generation"
+    },
+    "dim03_protein_synthesis_folding_and_turnover": {
+      "dimension_name": "Protein synthesis, folding, quality control and turnover"
+    },
+    "dim04_cell_cycle_proliferation_and_division": {
+      "dimension_name": "Cell-cycle progression, proliferation and cell division"
+    },
+    "dim05_genome_integrity_and_dna_repair": {
+      "dimension_name": "Genome integrity, DNA-damage response and DNA repair"
+    },
+    "dim06_transcription_rna_processing_and_posttranscriptional_control": {
+      "dimension_name": "Transcription, RNA processing and post-transcriptional regulation"
+    },
+    "dim07_chromatin_epigenetic_state_and_gene_silencing": {
+      "dimension_name": "Chromatin organization, epigenetic state and gene silencing"
+    },
+    "dim08_organelle_biogenesis_and_intracellular_trafficking": {
+      "dimension_name": "Organelle biogenesis, vesicular transport and intracellular trafficking"
+    },
+    "dim09_cytoskeleton_motility_and_cell_adhesion": {
+      "dimension_name": "Cytoskeleton, motility, mechanical state and cell adhesion"
+    },
+    "dim10_signal_reception_and_intracellular_signal_transduction": {
+      "dimension_name": "Signal reception and intracellular signal transduction"
+    },
+    "dim11_secretion_extracellular_matrix_and_tissue_remodeling": {
+      "dimension_name": "Secretion, extracellular matrix production and tissue remodeling"
+    },
+    "dim12_immune_surveillance_inflammation_and_host_defense": {
+      "dimension_name": "Immune surveillance, inflammation and host defense"
+    },
+    "dim13_cellular_stress_autophagy_and_cell_fate": {
+      "dimension_name": "Cellular stress adaptation, autophagy, senescence and cell death"
+    },
+    "dim14_lineage_identity_differentiation_and_developmental_program": {
+      "dimension_name": "Lineage identity, differentiation and developmental program"
+    },
+    "dim15_membrane_transport_ion_homeostasis_and_electrophysiology": {
+      "dimension_name": "Membrane transport, ion homeostasis and electrophysiology"
+    },
+    "dim16_redox_detoxification_and_xenobiotic_metabolism": {
+      "dimension_name": "Redox regulation, detoxification and xenobiotic metabolism"
+    }
+  }
+}

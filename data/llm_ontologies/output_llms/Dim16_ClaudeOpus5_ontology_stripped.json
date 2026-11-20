@@ -1,0 +1,52 @@
+{
+  "Dim16_ClaudeOpus5_ontology": {
+    "dim01_energy_metabolism": {
+      "dimension_name": "Energy generation and central carbon catabolism"
+    },
+    "dim02_biosynthetic_anabolism": {
+      "dimension_name": "Anabolic biosynthesis and macromolecular building block supply"
+    },
+    "dim03_proliferation_cell_cycle": {
+      "dimension_name": "Proliferative activity and cell cycle progression"
+    },
+    "dim04_genome_maintenance": {
+      "dimension_name": "Genome integrity, DNA damage response and repair capacity"
+    },
+    "dim05_transcriptional_regulation": {
+      "dimension_name": "Transcriptional and epigenetic regulatory program"
+    },
+    "dim06_protein_synthesis_and_proteostasis": {
+      "dimension_name": "Protein synthesis capacity, folding and proteostasis"
+    },
+    "dim07_secretory_capacity": {
+      "dimension_name": "Secretory pathway activity, glycosylation and vesicular trafficking"
+    },
+    "dim08_signal_transduction_competence": {
+      "dimension_name": "Signal transduction receptor repertoire and intracellular signalling competence"
+    },
+    "dim09_cell_adhesion_and_matrix": {
+      "dimension_name": "Cell adhesion, extracellular matrix production and tissue architecture"
+    },
+    "dim10_cytoskeleton_and_motility": {
+      "dimension_name": "Cytoskeletal organization, contractility and motility"
+    },
+    "dim11_membrane_transport_and_homeostasis": {
+      "dimension_name": "Transmembrane transport, ion homeostasis and osmotic/pH regulation"
+    },
+    "dim12_electrical_excitability_and_neurotransmission": {
+      "dimension_name": "Electrical excitability and synaptic/neuroendocrine transmission"
+    },
+    "dim13_immune_and_inflammatory_function": {
+      "dimension_name": "Immune identity, inflammatory and host-defence function"
+    },
+    "dim14_stress_response_and_redox": {
+      "dimension_name": "Stress adaptation, redox balance and xenobiotic detoxification"
+    },
+    "dim15_cell_death_and_turnover": {
+      "dimension_name": "Cell death propensity, survival balance and clearance"
+    },
+    "dim16_differentiation_state_and_lineage_identity": {
+      "dimension_name": "Differentiation state, stemness and lineage-specific identity program"
+    }
+  }
+}

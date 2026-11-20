@@ -1,0 +1,36 @@
+Define a list of exactly 32 dimensions which describe the state, functions, metabolism and role of cells in human.
+	The dimensions should be distinct and comprise all relevant aspects of cellular biology to discriminate all cells in the human body along those dimensions.
+	The dimensions should be useful to classify and compare cells within an organism like human.
+	Phrase and adjust the dimensions such that they measurable by gene expression data.
+	Finally, assign each of the 32 dimension the 5-20 most relevant and characterizing pathways or ontology terms with their respective identifier from databases like KEGG or Reactome or GO (Gene Ontology).
+	Please, avoid largely overlapping and duplicated terms from different sources. For example, use only TCA cycle from either KEGG or Reactome but not both as terms or pathways linked to a dimension.
+	Try to identify the 5-20 most important but distinct subterms regardless of their database source. 
+    Find a set of subterms and dimension which comprise most genes possible to cover a large part of the transcriptome.
+    Give your answer in the following JSON format:
+	{
+  "DimX_LLM-Model-name_ontology": {
+    "dim01_a_cell_dimension": {
+      "dimension_name": "A cellular function and dimension",
+      "ontology_terms": [
+        { "name": "Glycolysis / Gluconeogenesis", "id": "hsa00010", "source": "KEGG" },
+        { "name": "Citric Acid (TCA) Cycle", "id": "R-HSA-71403", "source": "Reactome" },
+        { "name": "Oxidative Phosphorylation", "id": "hsa00190", "source": "KEGG" },
+        { "name": "Fatty Acid Beta-Oxidation", "id": "R-HSA-77289", "source": "Reactome" },
+        { "name": "Amino Acid Metabolism", "id": "hsa00250", "source": "KEGG" }
+      ]
+    },
+    "dim02_another_cell_dimension": {
+      "dimension_name": "Another cellular function and dimension",
+      "ontology_terms": [
+        { "name": "Ribosome Biogenesis", "id": "R-HSA-72613", "source": "Reactome" },
+        { "name": "Aminoacyl-tRNA Biosynthesis", "id": "hsa00970", "source": "KEGG" },
+        { "name": "Pyrimidine Metabolism", "id": "hsa00240", "source": "KEGG" },
+        { "name": "Fatty Acid Biosynthesis", "id": "hsa00061", "source": "KEGG" },
+        { "name": "Cellular response to growth factor stimulus", "id": "GO:0071363", "source": "GO" },
+        { "name": "Cholesterol Biosynthesis", "id": "R-HSA-191273", "source": "Reactome" }
+      ]
+    }
+  }
+}
+	Make sure to follow the JSON format exactly without any additional text outside the JSON structure.
+	

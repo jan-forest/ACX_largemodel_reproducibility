@@ -1,0 +1,7 @@
+epochs: 100
+batch_size: 512
+beta: 0.1
+learning_rate: 0.001
+n_layers: 3
+checkpoint_interval: 100
+loss_reduction: "sum"

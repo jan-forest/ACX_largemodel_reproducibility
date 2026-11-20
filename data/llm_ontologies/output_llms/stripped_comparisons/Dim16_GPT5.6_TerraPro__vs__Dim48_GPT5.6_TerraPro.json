@@ -1,0 +1,162 @@
+{
+  "model1_name": "Dim16_GPT5.6_TerraPro_ontology",
+  "model2_name": "Dim48_GPT5.6_TerraPro_ontology",
+  "matches": [
+    {
+      "match_id": "match_01",
+      "score": 0.98,
+      "model1_dimensions": ["dim04_cell_cycle_proliferation_and_division"],
+      "model2_dimensions": ["dim16_cell_cycle_and_proliferation"]
+    },
+    {
+      "match_id": "match_02",
+      "score": 0.97,
+      "model1_dimensions": ["dim05_genome_integrity_and_dna_repair"],
+      "model2_dimensions": ["dim15_dna_replication_and_repair"]
+    },
+    {
+      "match_id": "match_03",
+      "score": 0.96,
+      "model1_dimensions": ["dim15_membrane_transport_ion_homeostasis_and_electrophysiology"],
+      "model2_dimensions": ["dim21_membrane_transport_and_ion_homeostasis"]
+    },
+    {
+      "match_id": "match_04",
+      "score": 0.95,
+      "model1_dimensions": ["dim06_transcription_rna_processing_and_posttranscriptional_control"],
+      "model2_dimensions": ["dim13_transcriptional_activity", "dim14_rna_processing_and_splicing"]
+    },
+    {
+      "match_id": "match_05",
+      "score": 0.95,
+      "model1_dimensions": ["dim10_signal_reception_and_intracellular_signal_transduction"],
+      "model2_dimensions": ["dim23_receptor_and_growth_factor_signaling"]
+    },
+    {
+      "match_id": "match_06",
+      "score": 0.94,
+      "model1_dimensions": ["dim03_protein_synthesis_folding_and_turnover"],
+      "model2_dimensions": ["dim10_protein_synthesis", "dim11_protein_folding_and_quality_control"]
+    },
+    {
+      "match_id": "match_07",
+      "score": 0.94,
+      "model1_dimensions": ["dim09_cytoskeleton_motility_and_cell_adhesion"],
+      "model2_dimensions": ["dim24_adhesion_and_extracellular_matrix", "dim25_cytoskeleton_and_cell_motility"]
+    },
+    {
+      "match_id": "match_08",
+      "score": 0.93,
+      "model1_dimensions": ["dim13_cellular_stress_autophagy_and_cell_fate"],
+      "model2_dimensions": ["dim12_autophagy_and_lysosomal_degradation", "dim17_cellular_senescence_and_growth_arrest", "dim18_programmed_cell_death", "dim46_cell_stress_and_damage_response"]
+    },
+    {
+      "match_id": "match_09",
+      "score": 0.93,
+      "model1_dimensions": ["dim16_redox_detoxification_and_xenobiotic_metabolism"],
+      "model2_dimensions": ["dim07_redox_and_reactive_oxygen_control", "dim41_cellular_detoxification_and_xenobiotic_metabolism"]
+    },
+    {
+      "match_id": "match_10",
+      "score": 0.92,
+      "model1_dimensions": ["dim14_lineage_identity_differentiation_and_developmental_program"],
+      "model2_dimensions": ["dim45_developmental_lineage_and_morphogenesis"]
+    },
+    {
+      "match_id": "match_11",
+      "score": 0.91,
+      "model1_dimensions": ["dim11_secretion_extracellular_matrix_and_tissue_remodeling"],
+      "model2_dimensions": ["dim20_endoplasmic_reticulum_and_secretory_capacity", "dim24_adhesion_and_extracellular_matrix", "dim27_mesenchymal_contractile_and_matrix_remodeling"]
+    },
+    {
+      "match_id": "match_12",
+      "score": 0.9,
+      "model1_dimensions": ["dim08_organelle_biogenesis_and_intracellular_trafficking"],
+      "model2_dimensions": ["dim08_mitochondrial_organization", "dim09_peroxisomal_metabolism", "dim20_endoplasmic_reticulum_and_secretory_capacity"]
+    },
+    {
+      "match_id": "match_13",
+      "score": 0.89,
+      "model1_dimensions": ["dim01_energy_production_and_central_catabolism"],
+      "model2_dimensions": ["dim01_energy_production", "dim02_glucose_and_glycogen_handling", "dim05_amino_acid_metabolism"]
+    },
+    {
+      "match_id": "match_14",
+      "score": 0.88,
+      "model1_dimensions": ["dim02_anabolic_biosynthesis_and_biomass_generation"],
+      "model2_dimensions": ["dim03_lipid_synthesis_and_storage", "dim04_cholesterol_and_steroid_metabolism", "dim05_amino_acid_metabolism", "dim06_nucleotide_metabolism", "dim42_glycosylation_and_glycan_remodeling"]
+    },
+    {
+      "match_id": "match_15",
+      "score": 0.86,
+      "model1_dimensions": ["dim12_immune_surveillance_inflammation_and_host_defense"],
+      "model2_dimensions": ["dim28_immune_antigen_presentation", "dim29_innate_immune_and_interferon_response", "dim30_phagocytosis_and_myeloid_effector_function", "dim31_cytokine_and_chemokine_communication", "dim47_viral_defense_and_host_pathogen_interaction"]
+    },
+    {
+      "match_id": "match_16",
+      "score": 0.84,
+      "model1_dimensions": ["dim07_chromatin_epigenetic_state_and_gene_silencing"],
+      "model2_dimensions": ["dim13_transcriptional_activity"]
+    },
+    {
+      "match_id": "match_17",
+      "score": 0.82,
+      "model1_dimensions": ["dim10_signal_reception_and_intracellular_signal_transduction"],
+      "model2_dimensions": ["dim19_hypoxia_and_nutrient_sensing", "dim22_calcium_signaling_and_excitability"]
+    },
+    {
+      "match_id": "match_18",
+      "score": 0.78,
+      "model1_dimensions": ["dim09_cytoskeleton_motility_and_cell_adhesion"],
+      "model2_dimensions": ["dim26_epithelial_identity_and_barrier_function", "dim36_vascular_endothelial_function", "dim40_ciliogenesis_and_sensory_transduction"]
+    },
+    {
+      "match_id": "match_19",
+      "score": 0.76,
+      "model1_dimensions": ["dim11_secretion_extracellular_matrix_and_tissue_remodeling"],
+      "model2_dimensions": ["dim37_endocrine_hormone_secretion", "dim38_digestive_and_absorptive_function"]
+    },
+    {
+      "match_id": "match_20",
+      "score": 0.73,
+      "model1_dimensions": ["dim14_lineage_identity_differentiation_and_developmental_program"],
+      "model2_dimensions": ["dim32_hematopoietic_and_blood_cell_programs", "dim33_neuronal_identity_and_synaptic_function", "dim34_glial_and_myelination_programs", "dim35_muscle_contraction", "dim37_endocrine_hormone_secretion", "dim39_renal_and_osmoregulatory_function"]
+    },
+    {
+      "match_id": "match_21",
+      "score": 0.7,
+      "model1_dimensions": ["dim12_immune_surveillance_inflammation_and_host_defense"],
+      "model2_dimensions": ["dim43_lipid_mediator_and_inflammatory_eicosanoid_metabolism"]
+    },
+    {
+      "match_id": "match_22",
+      "score": 0.68,
+      "model1_dimensions": ["dim13_cellular_stress_autophagy_and_cell_fate"],
+      "model2_dimensions": ["dim19_hypoxia_and_nutrient_sensing"]
+    },
+    {
+      "match_id": "match_23",
+      "score": 0.65,
+      "model1_dimensions": ["dim06_transcription_rna_processing_and_posttranscriptional_control"],
+      "model2_dimensions": ["dim44_circadian_and_temporal_regulation"]
+    },
+    {
+      "match_id": "match_24",
+      "score": 0.62,
+      "model1_dimensions": ["dim08_organelle_biogenesis_and_intracellular_trafficking"],
+      "model2_dimensions": ["dim42_glycosylation_and_glycan_remodeling"]
+    },
+    {
+      "match_id": "match_25",
+      "score": 0.58,
+      "model1_dimensions": ["dim15_membrane_transport_ion_homeostasis_and_electrophysiology"],
+      "model2_dimensions": ["dim39_renal_and_osmoregulatory_function"]
+    },
+    {
+      "match_id": "match_26",
+      "score": 0.55,
+      "model1_dimensions": ["dim11_secretion_extracellular_matrix_and_tissue_remodeling"],
+      "model2_dimensions": ["dim48_intercellular_communication_and_tissue_homeostasis"]
+    }
+  ]
+}

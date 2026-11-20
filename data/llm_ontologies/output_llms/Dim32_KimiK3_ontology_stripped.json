@@ -1,0 +1,100 @@
+{
+  "Dim32_KimiK3_ontology": {
+    "dim01_lineage_and_identity": {
+      "dimension_name": "Developmental lineage, tissue identity and differentiation state"
+    },
+    "dim02_cell_cycle_proliferation": {
+      "dimension_name": "Cell cycle progression, replication competence and proliferative rate"
+    },
+    "dim03_dna_damage_genome_maintenance": {
+      "dimension_name": "DNA repair, genome stability and checkpoint enforcement"
+    },
+    "dim04_transcription_chromatin": {
+      "dimension_name": "Transcriptional output, chromatin accessibility and epigenetic regulation"
+    },
+    "dim05_rna_processing_translation": {
+      "dimension_name": "RNA maturation, ribosome loading and translational capacity"
+    },
+    "dim06_energy_oxidative_metabolism": {
+      "dimension_name": "Mitochondrial energetics, respiratory chain activity and redox balance"
+    },
+    "dim07_glucose_and_carbohydrate_metabolism": {
+      "dimension_name": "Glucose uptake, glycolytic flux, glycogen handling and carbohydrate catabolism"
+    },
+    "dim08_lipid_sterol_metabolism": {
+      "dimension_name": "Fatty acid, phospholipid, cholesterol and lipid droplet metabolism"
+    },
+    "dim09_amino_acid_nucleotide_metabolism": {
+      "dimension_name": "Amino acid supply, nitrogen handling and nucleotide synthesis"
+    },
+    "dim10_protein_folding_quality_control": {
+      "dimension_name": "Protein folding, ER proteostasis and unfolded protein response"
+    },
+    "dim11_degradation_autophagy_lysosome": {
+      "dimension_name": "Proteasomal turnover, autophagy and lysosomal degradation"
+    },
+    "dim12_membrane_trafficking_secretion": {
+      "dimension_name": "Vesicle transport, exocytosis, endocytosis and secretory specialization"
+    },
+    "dim13_cytoskeleton_motility_shape": {
+      "dimension_name": "Actin, microtubule and intermediate filament architecture driving shape and movement"
+    },
+    "dim14_adhesion_ecm_interaction": {
+      "dimension_name": "Cell-matrix adhesion, extracellular matrix remodeling and basement membrane interaction"
+    },
+    "dim15_intercellular_junctions_polarity": {
+      "dimension_name": "Tight, adherens and gap junctions with apicobasal polarity and barrier formation"
+    },
+    "dim16_growth_factor_mapk_pi3k_signaling": {
+      "dimension_name": "Growth factor receptor signaling through MAPK, PI3K-AKT and mTOR"
+    },
+    "dim17_developmental_morphogen_signaling": {
+      "dimension_name": "WNT, Notch, Hedgehog and TGF-beta morphogen signaling in fate decisions"
+    },
+    "dim18_hypoxia_stress_survival": {
+      "dimension_name": "Oxygen sensing, HIF response and adaptive survival under stress"
+    },
+    "dim19_apoptosis_senescence_death": {
+      "dimension_name": "Programmed cell death, survival checkpoints and cellular senescence"
+    },
+    "dim20_innate_immune_inflammation": {
+      "dimension_name": "Pattern recognition, interferon, inflammasome and acute inflammatory signaling"
+    },
+    "dim21_adaptive_immune_antigen": {
+      "dimension_name": "Antigen presentation, lymphocyte receptor signaling and adaptive immune identity"
+    },
+    "dim22_cytokine_chemokine_communication": {
+      "dimension_name": "Cytokine, chemokine and JAK-STAT communication with neighboring and immune cells"
+    },
+    "dim23_complement_phagocytosis_cytotoxicity": {
+      "dimension_name": "Complement activation, phagocytic clearance and cytotoxic effector capacity"
+    },
+    "dim24_neuronal_excitability_synaptic": {
+      "dimension_name": "Neuronal excitability, synaptic transmission and neurotransmitter identity"
+    },
+    "dim25_glial_myelination_neurosupport": {
+      "dimension_name": "Glial support, myelination, astrocyte homeostasis and neurovascular interaction"
+    },
+    "dim26_cardiac_muscle_contractility": {
+      "dimension_name": "Sarcomeric contraction, calcium cycling and cardiac or skeletal muscle work"
+    },
+    "dim27_endocrine_hormone_metabolic_homeostasis": {
+      "dimension_name": "Hormone production, endocrine responsiveness and systemic metabolic regulation"
+    },
+    "dim28_epithelial_absorption_transport": {
+      "dimension_name": "Transcellular ion, nutrient and water transport in absorptive and secretory epithelia"
+    },
+    "dim29_vascular_angiogenesis_hemostasis": {
+      "dimension_name": "Endothelial identity, angiogenesis, vascular tone and hemostatic balance"
+    },
+    "dim30_matrix_biomineralization_skeletal": {
+      "dimension_name": "Bone, cartilage and connective tissue matrix production including mineralization"
+    },
+    "dim31_reproductive_germline_hormonal": {
+      "dimension_name": "Germline, reproductive endocrine and sex-steroid responsive cellular programs"
+    },
+    "dim32_xenobiotic_detox_barrier": {
+      "dimension_name": "Detoxification, drug handling, barrier defense and environmental chemical response"
+    }
+  }
+}

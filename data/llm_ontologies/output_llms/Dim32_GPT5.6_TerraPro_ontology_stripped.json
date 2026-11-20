@@ -1,0 +1,100 @@
+{
+  "Dim32_GPT5.6_TerraPro_ontology": {
+    "dim01_energy_generation": {
+      "dimension_name": "Energy generation and central carbon flux"
+    },
+    "dim02_lipid_metabolism": {
+      "dimension_name": "Lipid synthesis, storage, mobilization and oxidation"
+    },
+    "dim03_amino_acid_metabolism": {
+      "dimension_name": "Amino-acid, nitrogen and one-carbon metabolism"
+    },
+    "dim04_nucleotide_metabolism": {
+      "dimension_name": "Nucleotide biosynthesis, salvage and turnover"
+    },
+    "dim05_redox_detoxification": {
+      "dimension_name": "Redox balance, reactive-oxygen control and xenobiotic detoxification"
+    },
+    "dim06_mitochondrial_state": {
+      "dimension_name": "Mitochondrial biogenesis, dynamics and quality control"
+    },
+    "dim07_protein_synthesis": {
+      "dimension_name": "Ribosome biogenesis, translation and co-translational processing"
+    },
+    "dim08_protein_quality_control": {
+      "dimension_name": "Protein quality control, degradation and proteostasis"
+    },
+    "dim09_transcriptional_regulation": {
+      "dimension_name": "Transcriptional activity, chromatin state and epigenetic regulation"
+    },
+    "dim10_rna_processing": {
+      "dimension_name": "RNA synthesis, processing, transport and decay"
+    },
+    "dim11_dna_replication_repair": {
+      "dimension_name": "DNA replication, genome maintenance and repair"
+    },
+    "dim12_cell_cycle": {
+      "dimension_name": "Cell-cycle phase, proliferation and cell division"
+    },
+    "dim13_cell_death_survival": {
+      "dimension_name": "Cell survival, apoptosis and regulated cell death"
+    },
+    "dim14_senescence_stress": {
+      "dimension_name": "Cellular senescence, stress adaptation and growth arrest"
+    },
+    "dim15_membrane_transport": {
+      "dimension_name": "Transmembrane transport, ion homeostasis and membrane potential"
+    },
+    "dim16_vesicle_traffic": {
+      "dimension_name": "Endocytosis, exocytosis and intracellular vesicle trafficking"
+    },
+    "dim17_secretory_function": {
+      "dimension_name": "Secretory pathway, peptide hormone production and regulated secretion"
+    },
+    "dim18_cell_adhesion_ecm": {
+      "dimension_name": "Cell adhesion, extracellular matrix synthesis and mechanotransduction"
+    },
+    "dim19_cytoskeleton_motility": {
+      "dimension_name": "Cytoskeletal architecture, contractility and cellular motility"
+    },
+    "dim20_receptor_signal_transduction": {
+      "dimension_name": "Cell-surface receptor signaling and intracellular signal transduction"
+    },
+    "dim21_growth_factor_response": {
+      "dimension_name": "Growth-factor, nutrient and anabolic signaling responsiveness"
+    },
+    "dim22_innate_immunity": {
+      "dimension_name": "Innate immune sensing, inflammatory signaling and antimicrobial defense"
+    },
+    "dim23_adaptive_immunity": {
+      "dimension_name": "Adaptive immune identity, antigen receptor signaling and effector function"
+    },
+    "dim24_antigen_phagocyte_function": {
+      "dimension_name": "Phagocytosis, antigen presentation and myeloid effector state"
+    },
+    "dim25_cell_communication_ligands": {
+      "dimension_name": "Intercellular communication through cytokines, chemokines and paracrine ligands"
+    },
+    "dim26_developmental_identity": {
+      "dimension_name": "Developmental lineage specification, differentiation and tissue identity"
+    },
+    "dim27_epithelial_polarity_barrier": {
+      "dimension_name": "Epithelial polarity, junctions and barrier function"
+    },
+    "dim28_endothelial_vascular_function": {
+      "dimension_name": "Endothelial, vascular and hemostatic function"
+    },
+    "dim29_neural_excitable_function": {
+      "dimension_name": "Neuronal excitability, synaptic transmission and neurotransmitter handling"
+    },
+    "dim30_muscle_contractile_function": {
+      "dimension_name": "Contractile specialization and excitation-contraction coupling"
+    },
+    "dim31_specialized_metabolic_secretion": {
+      "dimension_name": "Specialized endocrine, exocrine and organ-specific metabolic output"
+    },
+    "dim32_organelle_and_lysosome_state": {
+      "dimension_name": "Lysosomal, peroxisomal and organelle catabolic specialization"
+    }
+  }
+}

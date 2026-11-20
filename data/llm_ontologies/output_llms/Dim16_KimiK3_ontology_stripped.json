@@ -1,0 +1,52 @@
+{
+  "Dim16_KimiK3_ontology": {
+    "dim01_energy_and_central_carbon_metabolism": {
+      "dimension_name": "Energy production and central carbon metabolism"
+    },
+    "dim02_biosynthetic_and_anabolic_programs": {
+      "dimension_name": "Biosynthetic and anabolic programs (proliferative growth)"
+    },
+    "dim03_amino_acid_metabolism": {
+      "dimension_name": "Amino acid uptake, metabolism and nitrogen handling"
+    },
+    "dim04_transcription_and_chromatin_state": {
+      "dimension_name": "Transcriptional activity and chromatin/epigenetic state"
+    },
+    "dim05_rna_processing_and_translation": {
+      "dimension_name": "RNA processing and protein translation"
+    },
+    "dim06_protein_homeostasis_and_degradation": {
+      "dimension_name": "Protein homeostasis, folding and degradation"
+    },
+    "dim07_cell_cycle_and_proliferation": {
+      "dimension_name": "Cell cycle progression and proliferation"
+    },
+    "dim08_apoptosis_and_cell_survival": {
+      "dimension_name": "Cell death, apoptosis and survival signaling"
+    },
+    "dim09_developmental_signaling_and_differentiation": {
+      "dimension_name": "Developmental signaling and lineage differentiation"
+    },
+    "dim10_cell_adhesion_and_extracellular_matrix": {
+      "dimension_name": "Cell adhesion, migration and extracellular matrix interaction"
+    },
+    "dim11_membrane_transport_and_ion_homeostasis": {
+      "dimension_name": "Membrane transport, ion homeostasis and electrical activity"
+    },
+    "dim12_endomembrane_trafficking_and_secretion": {
+      "dimension_name": "Endomembrane system, vesicle trafficking and secretion"
+    },
+    "dim13_stress_response_and_redox_homeostasis": {
+      "dimension_name": "Cellular stress response and redox homeostasis"
+    },
+    "dim14_innate_immunity_and_inflammation": {
+      "dimension_name": "Innate immunity, interferon response and inflammation"
+    },
+    "dim15_adaptive_immunity_and_immune_function": {
+      "dimension_name": "Adaptive immunity and specialized immune function"
+    },
+    "dim16_neuroendocrine_signaling_and_intercellular_communication": {
+      "dimension_name": "Intercellular communication, hormone and neurotransmitter signaling"
+    }
+  }
+}

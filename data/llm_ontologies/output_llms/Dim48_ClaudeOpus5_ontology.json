@@ -1,0 +1,730 @@
+{
+  "Dim48_ClaudeOpus5_ontology": {
+    "dim01_glucose_catabolism_glycolytic_flux": {
+      "dimension_name": "Glycolytic flux and glucose catabolism",
+      "ontology_terms": [
+        { "name": "Glycolysis / Gluconeogenesis", "id": "hsa00010", "source": "KEGG" },
+        { "name": "Pentose phosphate pathway", "id": "hsa00030", "source": "KEGG" },
+        { "name": "Fructose and mannose metabolism", "id": "hsa00051", "source": "KEGG" },
+        { "name": "Galactose metabolism", "id": "hsa00052", "source": "KEGG" },
+        { "name": "Glucose transmembrane transport", "id": "GO:1904659", "source": "GO" },
+        { "name": "Regulation of glycolysis by fructose 2,6-bisphosphate metabolism", "id": "R-HSA-9634600", "source": "Reactome" },
+        { "name": "Pyruvate metabolism", "id": "R-HSA-70268", "source": "Reactome" },
+        { "name": "Glycogen metabolism", "id": "R-HSA-8982491", "source": "Reactome" },
+        { "name": "Lactate dehydrogenase activity", "id": "GO:0004457", "source": "GO" },
+        { "name": "Canonical glycolysis", "id": "GO:0061621", "source": "GO" },
+        { "name": "Hexokinase activity", "id": "GO:0004396", "source": "GO" },
+        { "name": "Starch and sucrose metabolism", "id": "hsa00500", "source": "KEGG" }
+      ]
+    },
+    "dim02_mitochondrial_oxidative_energy_production": {
+      "dimension_name": "Mitochondrial respiration and oxidative energy production",
+      "ontology_terms": [
+        { "name": "Oxidative phosphorylation", "id": "hsa00190", "source": "KEGG" },
+        { "name": "Citric acid cycle (TCA cycle)", "id": "R-HSA-71403", "source": "Reactome" },
+        { "name": "Respiratory electron transport", "id": "R-HSA-611105", "source": "Reactome" },
+        { "name": "Mitochondrial ATP synthesis coupled proton transport", "id": "GO:0042776", "source": "GO" },
+        { "name": "Pyruvate dehydrogenase complex", "id": "GO:0045254", "source": "GO" },
+        { "name": "Mitochondrial inner membrane", "id": "GO:0005743", "source": "GO" },
+        { "name": "Mitochondrial calcium ion transport", "id": "GO:0006851", "source": "GO" },
+        { "name": "Mitochondrial biogenesis", "id": "R-HSA-1592230", "source": "Reactome" },
+        { "name": "Mitochondrial protein import", "id": "R-HSA-1268020", "source": "Reactome" },
+        { "name": "Mitochondrial translation", "id": "R-HSA-5368287", "source": "Reactome" },
+        { "name": "Cristae formation", "id": "R-HSA-8949613", "source": "Reactome" },
+        { "name": "Uncoupling protein activity / thermogenesis", "id": "hsa04714", "source": "KEGG" },
+        { "name": "Mitochondrial fission and fusion", "id": "GO:0008053", "source": "GO" }
+      ]
+    },
+    "dim03_lipid_catabolism_fatty_acid_oxidation": {
+      "dimension_name": "Fatty acid oxidation and lipid catabolism",
+      "ontology_terms": [
+        { "name": "Mitochondrial fatty acid beta-oxidation", "id": "R-HSA-77289", "source": "Reactome" },
+        { "name": "Peroxisomal lipid metabolism", "id": "R-HSA-390918", "source": "Reactome" },
+        { "name": "Fatty acid degradation", "id": "hsa00071", "source": "KEGG" },
+        { "name": "Carnitine shuttle", "id": "GO:0006853", "source": "GO" },
+        { "name": "Synthesis and degradation of ketone bodies", "id": "hsa00072", "source": "KEGG" },
+        { "name": "Lipolysis and triacylglycerol catabolism", "id": "GO:0019433", "source": "GO" },
+        { "name": "Sphingolipid catabolic process", "id": "GO:0030149", "source": "GO" },
+        { "name": "Lysosomal lipid degradation", "id": "R-HSA-9840309", "source": "Reactome" },
+        { "name": "Branched-chain amino acid catabolism", "id": "hsa00280", "source": "KEGG" },
+        { "name": "PPAR signaling pathway", "id": "hsa03320", "source": "KEGG" },
+        { "name": "Alpha-linolenic / arachidonic acid metabolism", "id": "hsa00591", "source": "KEGG" }
+      ]
+    },
+    "dim04_lipid_biosynthesis_storage": {
+      "dimension_name": "Lipid and sterol biosynthesis and lipid storage",
+      "ontology_terms": [
+        { "name": "Fatty acid biosynthesis", "id": "hsa00061", "source": "KEGG" },
+        { "name": "Cholesterol biosynthesis", "id": "R-HSA-191273", "source": "Reactome" },
+        { "name": "Glycerolipid metabolism", "id": "hsa00561", "source": "KEGG" },
+        { "name": "Glycerophospholipid metabolism", "id": "hsa00564", "source": "KEGG" },
+        { "name": "Sphingolipid biosynthesis", "id": "R-HSA-1660661", "source": "Reactome" },
+        { "name": "Ether lipid metabolism", "id": "hsa00565", "source": "KEGG" },
+        { "name": "Lipid droplet organization", "id": "GO:0034389", "source": "GO" },
+        { "name": "SREBP-mediated regulation of lipid synthesis", "id": "R-HSA-1655829", "source": "Reactome" },
+        { "name": "Biosynthesis of unsaturated fatty acids", "id": "hsa01040", "source": "KEGG" },
+        { "name": "Steroid biosynthesis", "id": "hsa00100", "source": "KEGG" },
+        { "name": "Lipoprotein assembly and secretion", "id": "R-HSA-8963898", "source": "Reactome" }
+      ]
+    },
+    "dim05_amino_acid_and_nitrogen_metabolism": {
+      "dimension_name": "Amino acid and nitrogen metabolism",
+      "ontology_terms": [
+        { "name": "Glycine, serine and threonine metabolism", "id": "hsa00260", "source": "KEGG" },
+        { "name": "Alanine, aspartate and glutamate metabolism", "id": "hsa00250", "source": "KEGG" },
+        { "name": "Arginine biosynthesis and urea cycle", "id": "hsa00220", "source": "KEGG" },
+        { "name": "Cysteine and methionine metabolism", "id": "hsa00270", "source": "KEGG" },
+        { "name": "Phenylalanine, tyrosine and tryptophan biosynthesis", "id": "hsa00400", "source": "KEGG" },
+        { "name": "Tryptophan metabolism", "id": "hsa00380", "source": "KEGG" },
+        { "name": "Histidine metabolism", "id": "hsa00340", "source": "KEGG" },
+        { "name": "Lysine degradation", "id": "hsa00310", "source": "KEGG" },
+        { "name": "One-carbon / folate metabolism", "id": "hsa00670", "source": "KEGG" },
+        { "name": "Amino acid transmembrane transport", "id": "GO:0003333", "source": "GO" },
+        { "name": "Glutathione metabolism", "id": "hsa00480", "source": "KEGG" },
+        { "name": "Ammonium assimilation and detoxification", "id": "GO:0097272", "source": "GO" },
+        { "name": "Selenoamino acid metabolism", "id": "R-HSA-2408522", "source": "Reactome" }
+      ]
+    },
+    "dim06_nucleotide_metabolism": {
+      "dimension_name": "Nucleotide biosynthesis and salvage",
+      "ontology_terms": [
+        { "name": "Purine metabolism", "id": "hsa00230", "source": "KEGG" },
+        { "name": "Pyrimidine metabolism", "id": "hsa00240", "source": "KEGG" },
+        { "name": "De novo purine biosynthesis", "id": "R-HSA-73817", "source": "Reactome" },
+        { "name": "Nucleotide salvage", "id": "R-HSA-8956319", "source": "Reactome" },
+        { "name": "Ribonucleoside-diphosphate reductase activity", "id": "GO:0004748", "source": "GO" },
+        { "name": "dNTP biosynthetic process", "id": "GO:0006201", "source": "GO" },
+        { "name": "Nucleotide catabolic process", "id": "GO:0009166", "source": "GO" },
+        { "name": "Nucleoside transmembrane transport", "id": "GO:1901642", "source": "GO" },
+        { "name": "Interconversion of nucleotide di- and triphosphates", "id": "R-HSA-499943", "source": "Reactome" }
+      ]
+    },
+    "dim07_protein_synthesis_translation_capacity": {
+      "dimension_name": "Translation capacity and ribosome content",
+      "ontology_terms": [
+        { "name": "Ribosome", "id": "hsa03010", "source": "KEGG" },
+        { "name": "Ribosome biogenesis in eukaryotes", "id": "hsa03008", "source": "KEGG" },
+        { "name": "Eukaryotic translation initiation", "id": "R-HSA-72613", "source": "Reactome" },
+        { "name": "Eukaryotic translation elongation", "id": "R-HSA-156842", "source": "Reactome" },
+        { "name": "Aminoacyl-tRNA biosynthesis", "id": "hsa00970", "source": "KEGG" },
+        { "name": "tRNA modification and processing", "id": "R-HSA-6784531", "source": "Reactome" },
+        { "name": "Regulation of translation", "id": "GO:0006417", "source": "GO" },
+        { "name": "mTORC1-mediated signalling", "id": "R-HSA-166208", "source": "Reactome" },
+        { "name": "Selenocysteine synthesis", "id": "R-HSA-2408557", "source": "Reactome" },
+        { "name": "Nonsense-mediated decay", "id": "R-HSA-927802", "source": "Reactome" },
+        { "name": "Cytoplasmic translational fidelity / ribosome quality control", "id": "GO:0072344", "source": "GO" }
+      ]
+    },
+    "dim08_protein_folding_er_processing": {
+      "dimension_name": "ER protein folding, glycosylation and quality control",
+      "ontology_terms": [
+        { "name": "Protein processing in endoplasmic reticulum", "id": "hsa04141", "source": "KEGG" },
+        { "name": "N-glycan biosynthesis", "id": "hsa00510", "source": "KEGG" },
+        { "name": "O-linked glycosylation", "id": "R-HSA-5173105", "source": "Reactome" },
+        { "name": "Unfolded protein response (UPR)", "id": "R-HSA-381119", "source": "Reactome" },
+        { "name": "ER-associated degradation (ERAD)", "id": "GO:0036503", "source": "GO" },
+        { "name": "Chaperone-mediated protein folding", "id": "GO:0061077", "source": "GO" },
+        { "name": "Protein disulfide isomerase activity", "id": "GO:0003756", "source": "GO" },
+        { "name": "Signal peptide processing / SRP-dependent targeting to membrane", "id": "R-HSA-1799339", "source": "Reactome" },
+        { "name": "GPI anchor biosynthesis", "id": "hsa00563", "source": "KEGG" },
+        { "name": "Calnexin/calreticulin cycle", "id": "R-HSA-901042", "source": "Reactome" },
+        { "name": "Glycosaminoglycan and proteoglycan biosynthesis", "id": "hsa00532", "source": "KEGG" }
+      ]
+    },
+    "dim09_protein_degradation_proteostasis": {
+      "dimension_name": "Proteasomal degradation and ubiquitin proteostasis",
+      "ontology_terms": [
+        { "name": "Proteasome", "id": "hsa03050", "source": "KEGG" },
+        { "name": "Ubiquitin mediated proteolysis", "id": "hsa04120", "source": "KEGG" },
+        { "name": "Deubiquitination", "id": "R-HSA-5688426", "source": "Reactome" },
+        { "name": "Neddylation", "id": "R-HSA-8951664", "source": "Reactome" },
+        { "name": "SUMOylation", "id": "R-HSA-2990846", "source": "Reactome" },
+        { "name": "Cullin-RING E3 ligase complex", "id": "GO:0031461", "source": "GO" },
+        { "name": "Heat shock protein binding / chaperone response", "id": "GO:0031072", "source": "GO" },
+        { "name": "Protein quality control for misfolded proteins", "id": "R-HSA-5358346", "source": "Reactome" },
+        { "name": "Calpain / cysteine-type endopeptidase activity", "id": "GO:0004197", "source": "GO" }
+      ]
+    },
+    "dim10_autophagy_lysosomal_function": {
+      "dimension_name": "Autophagy and lysosomal degradative capacity",
+      "ontology_terms": [
+        { "name": "Autophagy - animal", "id": "hsa04140", "source": "KEGG" },
+        { "name": "Lysosome", "id": "hsa04142", "source": "KEGG" },
+        { "name": "Macroautophagy", "id": "R-HSA-1632852", "source": "Reactome" },
+        { "name": "Chaperone-mediated autophagy", "id": "R-HSA-9613829", "source": "Reactome" },
+        { "name": "Mitophagy", "id": "hsa04137", "source": "KEGG" },
+        { "name": "Lysosomal lumen acidification", "id": "GO:0007042", "source": "GO" },
+        { "name": "TFEB-mediated lysosomal biogenesis", "id": "GO:1903432", "source": "GO" },
+        { "name": "Autolysosome / autophagosome maturation", "id": "GO:0097352", "source": "GO" },
+        { "name": "Cathepsin-mediated proteolysis", "id": "GO:0008234", "source": "GO" }
+      ]
+    },
+    "dim11_redox_homeostasis_oxidative_stress": {
+      "dimension_name": "Redox homeostasis and oxidative stress defense",
+      "ontology_terms": [
+        { "name": "Cellular response to oxidative stress", "id": "GO:0034599", "source": "GO" },
+        { "name": "Detoxification of reactive oxygen species", "id": "R-HSA-3299685", "source": "Reactome" },
+        { "name": "NRF2 (KEAP1-NFE2L2) mediated oxidative stress response", "id": "R-HSA-9755511", "source": "Reactome" },
+        { "name": "Glutathione peroxidase activity", "id": "GO:0004602", "source": "GO" },
+        { "name": "Superoxide dismutase activity", "id": "GO:0004784", "source": "GO" },
+        { "name": "Thioredoxin / peroxiredoxin system", "id": "GO:0045454", "source": "GO" },
+        { "name": "Ascorbate and aldarate metabolism", "id": "hsa00053", "source": "KEGG" },
+        { "name": "NADPH regeneration", "id": "GO:0006740", "source": "GO" },
+        { "name": "Ferroptosis", "id": "hsa04216", "source": "KEGG" },
+        { "name": "Nitric oxide metabolic process", "id": "GO:0046209", "source": "GO" }
+      ]
+    },
+    "dim12_xenobiotic_detoxification": {
+      "dimension_name": "Xenobiotic and drug biotransformation capacity",
+      "ontology_terms": [
+        { "name": "Metabolism of xenobiotics by cytochrome P450", "id": "hsa00980", "source": "KEGG" },
+        { "name": "Drug metabolism - other enzymes", "id": "hsa00983", "source": "KEGG" },
+        { "name": "Phase II conjugation of compounds", "id": "R-HSA-156580", "source": "Reactome" },
+        { "name": "Glucuronidation", "id": "R-HSA-156588", "source": "Reactome" },
+        { "name": "Sulfotransferase activity", "id": "GO:0008146", "source": "GO" },
+        { "name": "Aryl hydrocarbon receptor signalling", "id": "R-HSA-8937144", "source": "Reactome" },
+        { "name": "ABC transporter mediated efflux", "id": "hsa02010", "source": "KEGG" },
+        { "name": "Bile acid and bile salt metabolism", "id": "R-HSA-194068", "source": "Reactome" },
+        { "name": "Porphyrin and heme metabolism", "id": "hsa00860", "source": "KEGG" },
+        { "name": "Alcohol / aldehyde dehydrogenase activity", "id": "GO:0004022", "source": "GO" }
+      ]
+    },
+    "dim13_metal_ion_and_micronutrient_handling": {
+      "dimension_name": "Metal ion and micronutrient homeostasis",
+      "ontology_terms": [
+        { "name": "Iron uptake and transport", "id": "R-HSA-917937", "source": "Reactome" },
+        { "name": "Cellular zinc ion homeostasis", "id": "GO:0006882", "source": "GO" },
+        { "name": "Copper ion homeostasis", "id": "GO:0055070", "source": "GO" },
+        { "name": "Metallothionein binding of metals", "id": "R-HSA-5661231", "source": "Reactome" },
+        { "name": "Iron-sulfur cluster assembly", "id": "GO:0016226", "source": "GO" },
+        { "name": "Vitamin B12 / cobalamin metabolism", "id": "R-HSA-3359478", "source": "Reactome" },
+        { "name": "Riboflavin, thiamine and vitamin B6 metabolism", "id": "hsa00740", "source": "KEGG" },
+        { "name": "Nicotinate and nicotinamide (NAD) metabolism", "id": "hsa00760", "source": "KEGG" },
+        { "name": "Pantothenate and CoA biosynthesis", "id": "hsa00770", "source": "KEGG" },
+        { "name": "Retinol metabolism", "id": "hsa00830", "source": "KEGG" },
+        { "name": "Selenium micronutrient network", "id": "R-HSA-2408522", "source": "Reactome" }
+      ]
+    },
+    "dim14_cell_cycle_proliferative_activity": {
+      "dimension_name": "Cell cycle progression and proliferative activity",
+      "ontology_terms": [
+        { "name": "Cell cycle", "id": "hsa04110", "source": "KEGG" },
+        { "name": "G1/S transition", "id": "R-HSA-69206", "source": "Reactome" },
+        { "name": "S phase / DNA replication", "id": "hsa03030", "source": "KEGG" },
+        { "name": "M phase and mitotic spindle checkpoint", "id": "R-HSA-69618", "source": "Reactome" },
+        { "name": "Cytokinesis", "id": "GO:0000910", "source": "GO" },
+        { "name": "Chromosome segregation", "id": "GO:0007059", "source": "GO" },
+        { "name": "Cyclin-dependent protein kinase activity", "id": "GO:0004693", "source": "GO" },
+        { "name": "Centrosome duplication", "id": "GO:0051298", "source": "GO" },
+        { "name": "Negative regulation of cell cycle (CDK inhibitors)", "id": "GO:0045786", "source": "GO" },
+        { "name": "Cell cycle exit / quiescence", "id": "GO:0044878", "source": "GO" },
+        { "name": "APC/C-mediated degradation of cell cycle proteins", "id": "R-HSA-174143", "source": "Reactome" }
+      ]
+    },
+    "dim15_dna_replication_genome_maintenance": {
+      "dimension_name": "DNA damage response and genome maintenance",
+      "ontology_terms": [
+        { "name": "Nucleotide excision repair", "id": "hsa03420", "source": "KEGG" },
+        { "name": "Base excision repair", "id": "hsa03410", "source": "KEGG" },
+        { "name": "Mismatch repair", "id": "hsa03430", "source": "KEGG" },
+        { "name": "Homology directed repair", "id": "R-HSA-5693538", "source": "Reactome" },
+        { "name": "Non-homologous end joining", "id": "hsa03450", "source": "KEGG" },
+        { "name": "ATM/ATR-mediated DNA damage checkpoint signaling", "id": "GO:0000077", "source": "GO" },
+        { "name": "p53 signaling pathway", "id": "hsa04115", "source": "KEGG" },
+        { "name": "Telomere maintenance", "id": "R-HSA-157579", "source": "Reactome" },
+        { "name": "Fanconi anemia pathway", "id": "hsa03460", "source": "KEGG" },
+        { "name": "Translesion synthesis", "id": "R-HSA-110313", "source": "Reactome" }
+      ]
+    },
+    "dim16_chromatin_epigenetic_state": {
+      "dimension_name": "Chromatin organization and epigenetic state",
+      "ontology_terms": [
+        { "name": "Chromatin modifying enzymes", "id": "R-HSA-3247509", "source": "Reactome" },
+        { "name": "Histone acetyltransferase activity", "id": "GO:0004402", "source": "GO" },
+        { "name": "Histone deacetylase complex", "id": "GO:0000118", "source": "GO" },
+        { "name": "Histone methyltransferase activity", "id": "GO:0042054", "source": "GO" },
+        { "name": "DNA methylation and demethylation", "id": "GO:0006306", "source": "GO" },
+        { "name": "PRC2 / polycomb repressive complex", "id": "GO:0035098", "source": "GO" },
+        { "name": "SWI/SNF nucleosome remodeling complex", "id": "GO:0016514", "source": "GO" },
+        { "name": "Heterochromatin formation", "id": "GO:0031507", "source": "GO" },
+        { "name": "Nucleosome assembly / histone variant deposition", "id": "GO:0006334", "source": "GO" },
+        { "name": "Genomic imprinting", "id": "GO:0071514", "source": "GO" },
+        { "name": "HDAC/ NuRD-mediated transcriptional repression", "id": "R-HSA-3214815", "source": "Reactome" }
+      ]
+    },
+    "dim17_transcriptional_regulatory_program": {
+      "dimension_name": "General transcription machinery and transcriptional regulation",
+      "ontology_terms": [
+        { "name": "RNA polymerase II transcription", "id": "R-HSA-73857", "source": "Reactome" },
+        { "name": "Basal transcription factors", "id": "hsa03022", "source": "KEGG" },
+        { "name": "RNA polymerase I transcription", "id": "R-HSA-73864", "source": "Reactome" },
+        { "name": "RNA polymerase III transcription", "id": "R-HSA-73980", "source": "Reactome" },
+        { "name": "Mediator complex", "id": "GO:0016592", "source": "GO" },
+        { "name": "Transcription coactivator activity", "id": "GO:0003713", "source": "GO" },
+        { "name": "Transcription corepressor activity", "id": "GO:0003714", "source": "GO" },
+        { "name": "Enhancer binding", "id": "GO:0035326", "source": "GO" },
+        { "name": "DNA-binding transcription factor activity, RNA polymerase II-specific", "id": "GO:0000981", "source": "GO" },
+        { "name": "Transcription elongation and termination", "id": "GO:0006354", "source": "GO" }
+      ]
+    },
+    "dim18_rna_processing_and_turnover": {
+      "dimension_name": "RNA processing, splicing and turnover",
+      "ontology_terms": [
+        { "name": "Spliceosome", "id": "hsa03040", "source": "KEGG" },
+        { "name": "mRNA 3'-end processing and polyadenylation", "id": "R-HSA-72187", "source": "Reactome" },
+        { "name": "mRNA capping", "id": "GO:0006370", "source": "GO" },
+        { "name": "Alternative mRNA splicing regulation", "id": "GO:0000381", "source": "GO" },
+        { "name": "RNA degradation", "id": "hsa03018", "source": "KEGG" },
+        { "name": "mRNA transport / nuclear export", "id": "GO:0051028", "source": "GO" },
+        { "name": "rRNA processing", "id": "R-HSA-72312", "source": "Reactome" },
+        { "name": "snoRNA / RNA modification (m6A, pseudouridylation)", "id": "GO:0001522", "source": "GO" },
+        { "name": "Cytoplasmic stress granule / P-body", "id": "GO:0010494", "source": "GO" },
+        { "name": "microRNA-mediated gene silencing", "id": "GO:0035195", "source": "GO" },
+        { "name": "Long non-coding RNA function", "id": "GO:0140938", "source": "GO" }
+      ]
+    },
+    "dim19_apoptotic_and_programmed_death_propensity": {
+      "dimension_name": "Apoptotic and regulated cell death propensity",
+      "ontology_terms": [
+        { "name": "Apoptosis", "id": "hsa04210", "source": "KEGG" },
+        { "name": "Intrinsic pathway for apoptosis", "id": "R-HSA-109606", "source": "Reactome" },
+        { "name": "Extrinsic (death receptor) apoptotic signaling", "id": "GO:0008625", "source": "GO" },
+        { "name": "Caspase activation cascade", "id": "GO:0008635", "source": "GO" },
+        { "name": "BCL-2 family protein regulation of apoptosis", "id": "GO:0097190", "source": "GO" },
+        { "name": "Necroptosis", "id": "hsa04217", "source": "KEGG" },
+        { "name": "Pyroptosis / inflammasome-mediated death", "id": "GO:0070269", "source": "GO" },
+        { "name": "Anti-apoptotic / survival signaling", "id": "GO:0043066", "source": "GO" },
+        { "name": "Apoptotic cell clearance", "id": "GO:0043277", "source": "GO" },
+        { "name": "Regulated necrosis / MPT-driven death", "id": "R-HSA-5218859", "source": "Reactome" }
+      ]
+    },
+    "dim20_senescence_and_aging_state": {
+      "dimension_name": "Cellular senescence and aging state",
+      "ontology_terms": [
+        { "name": "Cellular senescence", "id": "hsa04218", "source": "KEGG" },
+        { "name": "Oncogene induced senescence", "id": "R-HSA-2559585", "source": "Reactome" },
+        { "name": "Senescence-associated secretory phenotype (SASP)", "id": "R-HSA-2559582", "source": "Reactome" },
+        { "name": "Replicative senescence / telomere shortening", "id": "GO:0090399", "source": "GO" },
+        { "name": "CDKN2A/p16-mediated cell cycle arrest", "id": "GO:1904706", "source": "GO" },
+        { "name": "DNA damage-induced senescence", "id": "R-HSA-2559586", "source": "Reactome" },
+        { "name": "Sirtuin-mediated longevity signaling", "id": "hsa04211", "source": "KEGG" },
+        { "name": "Cellular response to starvation / caloric restriction", "id": "GO:0009267", "source": "GO" },
+        { "name": "Lamin B / nuclear envelope aging changes", "id": "GO:0005638", "source": "GO" }
+      ]
+    },
+    "dim21_stemness_and_self_renewal": {
+      "dimension_name": "Stemness, pluripotency and self-renewal potential",
+      "ontology_terms": [
+        { "name": "Signaling pathways regulating pluripotency of stem cells", "id": "hsa04550", "source": "KEGG" },
+        { "name": "POU5F1/NANOG/SOX2 transcriptional network", "id": "R-HSA-452723", "source": "Reactome" },
+        { "name": "Stem cell population maintenance", "id": "GO:0019827", "source": "GO" },
+        { "name": "Wnt signaling pathway", "id": "hsa04310", "source": "KEGG" },
+        { "name": "Notch signaling pathway", "id": "hsa04330", "source": "KEGG" },
+        { "name": "Hedgehog signaling pathway", "id": "hsa04340", "source": "KEGG" },
+        { "name": "Hippo signaling pathway", "id": "hsa04390", "source": "KEGG" },
+        { "name": "Asymmetric cell division", "id": "GO:0008356", "source": "GO" },
+        { "name": "Somatic stem cell division", "id": "GO:0048103", "source": "GO" },
+        { "name": "Symmetric / niche-dependent self renewal", "id": "GO:0072091", "source": "GO" }
+      ]
+    },
+    "dim22_differentiation_and_developmental_lineage_program": {
+      "dimension_name": "Differentiation state and developmental lineage program",
+      "ontology_terms": [
+        { "name": "Cell fate commitment", "id": "GO:0045165", "source": "GO" },
+        { "name": "HOX gene cluster / anterior-posterior patterning", "id": "GO:0009952", "source": "GO" },
+        { "name": "Activation of HOX genes during differentiation", "id": "R-HSA-5619507", "source": "Reactome" },
+        { "name": "Mesenchymal cell differentiation", "id": "GO:0048762", "source": "GO" },
+        { "name": "Epithelial cell differentiation", "id": "GO:0030855", "source": "GO" },
+        { "name": "Neuron differentiation", "id": "GO:0030182", "source": "GO" },
+        { "name": "Hematopoietic cell lineage", "id": "hsa04640", "source": "KEGG" },
+        { "name": "Muscle cell differentiation", "id": "GO:0042692", "source": "GO" },
+        { "name": "Epithelial to mesenchymal transition", "id": "GO:0001837", "source": "GO" },
+        { "name": "TGF-beta signaling pathway", "id": "hsa04350", "source": "KEGG" },
+        { "name": "Retinoic acid receptor signaling", "id": "GO:0048384", "source": "GO" }
+      ]
+    },
+    "dim23_growth_factor_and_receptor_tyrosine_kinase_signaling": {
+      "dimension_name": "Growth factor and receptor tyrosine kinase signaling",
+      "ontology_terms": [
+        { "name": "MAPK signaling pathway", "id": "hsa04010", "source": "KEGG" },
+        { "name": "PI3K-Akt signaling pathway", "id": "hsa04151", "source": "KEGG" },
+        { "name": "Signaling by EGFR", "id": "R-HSA-177929", "source": "Reactome" },
+        { "name": "Signaling by FGFR", "id": "R-HSA-190236", "source": "Reactome" },
+        { "name": "Signaling by VEGF", "id": "R-HSA-194138", "source": "Reactome" },
+        { "name": "Signaling by PDGF", "id": "R-HSA-186797", "source": "Reactome" },
+        { "name": "Insulin/IGF receptor signaling", "id": "hsa04910", "source": "KEGG" },
+        { "name": "Ras protein signal transduction", "id": "GO:0007265", "source": "GO" },
+        { "name": "Negative regulation of receptor signaling (phosphatases, SOCS)", "id": "GO:1990776", "source": "GO" },
+        { "name": "Cellular response to growth factor stimulus", "id": "GO:0071363", "source": "GO" }
+      ]
+    },
+    "dim24_gpcr_and_second_messenger_signaling": {
+      "dimension_name": "GPCR and second messenger signaling",
+      "ontology_terms": [
+        { "name": "Signaling by GPCR", "id": "R-HSA-372790", "source": "Reactome" },
+        { "name": "Neuroactive ligand-receptor interaction", "id": "hsa04080", "source": "KEGG" },
+        { "name": "cAMP signaling pathway", "id": "hsa04024", "source": "KEGG" },
+        { "name": "cGMP-PKG signaling pathway", "id": "hsa04022", "source": "KEGG" },
+        { "name": "Phosphatidylinositol signaling system", "id": "hsa04070", "source": "KEGG" },
+        { "name": "Calcium signaling pathway", "id": "hsa04020", "source": "KEGG" },
+        { "name": "Protein kinase C activity", "id": "GO:0004697", "source": "GO" },
+        { "name": "Adenylate cyclase-modulating GPCR signaling", "id": "GO:0007188", "source": "GO" },
+        { "name": "Arrestin-mediated receptor desensitization", "id": "GO:0002032", "source": "GO" },
+        { "name": "Olfactory / chemosensory receptor activity", "id": "GO:0004984", "source": "GO" }
+      ]
+    },
+    "dim25_nuclear_receptor_and_hormone_responsiveness": {
+      "dimension_name": "Nuclear receptor and hormone responsiveness",
+      "ontology_terms": [
+        { "name": "Nuclear receptor transcription pathway", "id": "R-HSA-383280", "source": "Reactome" },
+        { "name": "Steroid hormone mediated signaling pathway", "id": "GO:0043401", "source": "GO" },
+        { "name": "Estrogen signaling pathway", "id": "hsa04915", "source": "KEGG" },
+        { "name": "Thyroid hormone signaling pathway", "id": "hsa04919", "source": "KEGG" },
+        { "name": "Glucocorticoid receptor signaling", "id": "GO:0031958", "source": "GO" },
+        { "name": "Vitamin D receptor signaling", "id": "GO:0070561", "source": "GO" },
+        { "name": "Androgen receptor signaling", "id": "GO:0030521", "source": "GO" },
+        { "name": "PPAR-alpha/gamma transcriptional regulation", "id": "R-HSA-400206", "source": "Reactome" },
+        { "name": "Steroid hormone biosynthesis", "id": "hsa00140", "source": "KEGG" }
+      ]
+    },
+    "dim26_intracellular_kinase_phosphatase_network": {
+      "dimension_name": "Intracellular kinase-phosphatase signaling network",
+      "ontology_terms": [
+        { "name": "AMPK signaling pathway", "id": "hsa04152", "source": "KEGG" },
+        { "name": "mTOR signaling pathway", "id": "hsa04150", "source": "KEGG" },
+        { "name": "JAK-STAT signaling pathway", "id": "hsa04630", "source": "KEGG" },
+        { "name": "NF-kappa B signaling pathway", "id": "hsa04064", "source": "KEGG" },
+        { "name": "Protein serine/threonine phosphatase activity", "id": "GO:0004722", "source": "GO" },
+        { "name": "Protein tyrosine phosphatase activity", "id": "GO:0004725", "source": "GO" },
+        { "name": "Casein kinase / GSK3 signaling", "id": "GO:0050321", "source": "GO" },
+        { "name": "Signaling by Rho GTPases", "id": "R-HSA-194315", "source": "Reactome" },
+        { "name": "Calcium/calmodulin-dependent protein kinase activity", "id": "GO:0004683", "source": "GO" },
+        { "name": "Integrated stress response signaling", "id": "GO:0140467", "source": "GO" }
+      ]
+    },
+    "dim27_ion_transport_and_membrane_excitability": {
+      "dimension_name": "Ion transport and membrane electrical excitability",
+      "ontology_terms": [
+        { "name": "Potassium channel activity", "id": "GO:0005267", "source": "GO" },
+        { "name": "Voltage-gated sodium channel complex", "id": "GO:0001518", "source": "GO" },
+        { "name": "Voltage-gated calcium channel activity", "id": "GO:0005245", "source": "GO" },
+        { "name": "Chloride transmembrane transport", "id": "GO:1902476", "source": "GO" },
+        { "name": "Ion homeostasis", "id": "R-HSA-5578775", "source": "Reactome" },
+        { "name": "P-type ATPase / ion pump activity", "id": "GO:0005391", "source": "GO" },
+        { "name": "Action potential propagation", "id": "GO:0001508", "source": "GO" },
+        { "name": "Aquaporin-mediated water transport", "id": "R-HSA-432047", "source": "Reactome" },
+        { "name": "Proton transmembrane transport / pH regulation", "id": "GO:1902600", "source": "GO" },
+        { "name": "Transient receptor potential channel activity", "id": "GO:0005262", "source": "GO" },
+        { "name": "Gap junction", "id": "hsa04540", "source": "KEGG" }
+      ]
+    },
+    "dim28_nutrient_and_solute_transporter_repertoire": {
+      "dimension_name": "Nutrient and solute transporter repertoire",
+      "ontology_terms": [
+        { "name": "SLC-mediated transmembrane transport", "id": "R-HSA-425407", "source": "Reactome" },
+        { "name": "ABC-family proteins mediated transport", "id": "R-HSA-382556", "source": "Reactome" },
+        { "name": "Organic anion transmembrane transporter activity", "id": "GO:0008514", "source": "GO" },
+        { "name": "Monocarboxylic acid transmembrane transport", "id": "GO:0015718", "source": "GO" },
+        { "name": "Vitamin transmembrane transport", "id": "GO:0051180", "source": "GO" },
+        { "name": "Lipid transport across membranes", "id": "R-HSA-428157", "source": "Reactome" },
+        { "name": "Mitochondrial carrier / metabolite transport", "id": "GO:0006839", "source": "GO" },
+        { "name": "Nucleotide-sugar transport", "id": "GO:0015780", "source": "GO" },
+        { "name": "Vesicular neurotransmitter / amine transport", "id": "GO:0015842", "source": "GO" }
+      ]
+    },
+    "dim29_secretory_pathway_and_vesicle_trafficking": {
+      "dimension_name": "Secretory pathway and intracellular vesicle trafficking",
+      "ontology_terms": [
+        { "name": "SNARE interactions in vesicular transport", "id": "hsa04130", "source": "KEGG" },
+        { "name": "COPI/COPII-mediated ER-to-Golgi transport", "id": "R-HSA-948021", "source": "Reactome" },
+        { "name": "Intra-Golgi and retrograde Golgi-to-ER traffic", "id": "R-HSA-6811442", "source": "Reactome" },
+        { "name": "Trans-Golgi network vesicle budding", "id": "GO:0006890", "source": "GO" },
+        { "name": "Regulated exocytosis", "id": "GO:0045055", "source": "GO" },
+        { "name": "Secretory granule organization", "id": "GO:0033363", "source": "GO" },
+        { "name": "Rab GTPase-mediated vesicle transport", "id": "R-HSA-8873719", "source": "Reactome" },
+        { "name": "Extracellular vesicle / exosome biogenesis", "id": "GO:0070071", "source": "GO" },
+        { "name": "Constitutive protein secretion", "id": "GO:0009306", "source": "GO" }
+      ]
+    },
+    "dim30_endocytosis_and_receptor_internalization": {
+      "dimension_name": "Endocytosis, phagocytosis and receptor internalization",
+      "ontology_terms": [
+        { "name": "Endocytosis", "id": "hsa04144", "source": "KEGG" },
+        { "name": "Clathrin-mediated endocytosis", "id": "R-HSA-8856828", "source": "Reactome" },
+        { "name": "Caveolin-mediated endocytosis", "id": "GO:0072584", "source": "GO" },
+        { "name": "Phagosome", "id": "hsa04145", "source": "KEGG" },
+        { "name": "Macropinocytosis", "id": "GO:0044351", "source": "GO" },
+        { "name": "Receptor recycling / retromer function", "id": "GO:0001881", "source": "GO" },
+        { "name": "Scavenger receptor activity", "id": "GO:0005044", "source": "GO" },
+        { "name": "Early and late endosome to lysosome transport", "id": "GO:0008333", "source": "GO" },
+        { "name": "Transcytosis", "id": "GO:0045056", "source": "GO" }
+      ]
+    },
+    "dim31_cytoskeleton_organization_and_mechanics": {
+      "dimension_name": "Cytoskeletal organization and cell mechanics",
+      "ontology_terms": [
+        { "name": "Regulation of actin cytoskeleton", "id": "hsa04810", "source": "KEGG" },
+        { "name": "Microtubule cytoskeleton organization", "id": "GO:0000226", "source": "GO" },
+        { "name": "Intermediate filament organization", "id": "GO:0045109", "source": "GO" },
+        { "name": "Actomyosin structure organization", "id": "GO:0031032", "source": "GO" },
+        { "name": "Non-muscle myosin motor activity", "id": "GO:0000146", "source": "GO" },
+        { "name": "Kinesin and dynein-mediated transport", "id": "R-HSA-6811434", "source": "Reactome" },
+        { "name": "Cell cortex / spectrin-based membrane skeleton", "id": "GO:0008091", "source": "GO" },
+        { "name": "Mechanotransduction / response to mechanical stimulus", "id": "GO:0009612", "source": "GO" },
+        { "name": "Septin and cell shape control", "id": "GO:0008360", "source": "GO" },
+        { "name": "Cilium assembly", "id": "GO:0060271", "source": "GO" }
+      ]
+    },
+    "dim32_cell_adhesion_and_junctional_organization": {
+      "dimension_name": "Cell adhesion and junctional organization",
+      "ontology_terms": [
+        { "name": "Focal adhesion", "id": "hsa04510", "source": "KEGG" },
+        { "name": "Cell adhesion molecules (CAMs)", "id": "hsa04514", "source": "KEGG" },
+        { "name": "Tight junction", "id": "hsa04530", "source": "KEGG" },
+        { "name": "Adherens junction", "id": "hsa04520", "source": "KEGG" },
+        { "name": "Desmosome organization", "id": "GO:0002934", "source": "GO" },
+        { "name": "Integrin-mediated cell adhesion", "id": "GO:0033627", "source": "GO" },
+        { "name": "Cadherin binding", "id": "GO:0045296", "source": "GO" },
+        { "name": "Hemidesmosome / cell-substrate adhesion", "id": "GO:0031581", "source": "GO" },
+        { "name": "Selectin-mediated leukocyte adhesion", "id": "GO:0007159", "source": "GO" },
+        { "name": "Cell-cell contact inhibition signaling", "id": "GO:0060242", "source": "GO" }
+      ]
+    },
+    "dim33_extracellular_matrix_production_and_remodeling": {
+      "dimension_name": "Extracellular matrix production and remodeling",
+      "ontology_terms": [
+        { "name": "ECM-receptor interaction", "id": "hsa04512", "source": "KEGG" },
+        { "name": "Collagen biosynthesis and modifying enzymes", "id": "R-HSA-1650814", "source": "Reactome" },
+        { "name": "Degradation of the extracellular matrix", "id": "R-HSA-1474228", "source": "Reactome" },
+        { "name": "Elastic fibre formation", "id": "R-HSA-1566948", "source": "Reactome" },
+        { "name": "Basement membrane organization", "id": "GO:0071711", "source": "GO" },
+        { "name": "Matrix metalloproteinase activity", "id": "GO:0004222", "source": "GO" },
+        { "name": "Proteoglycan / glycosaminoglycan binding", "id": "GO:0043394", "source": "GO" },
+        { "name": "Fibronectin / fibrillar matrix assembly", "id": "GO:0071559", "source": "GO" },
+        { "name": "Lysyl oxidase-mediated crosslinking", "id": "GO:0018057", "source": "GO" },
+        { "name": "Tissue stiffness / matrix mechanical regulation", "id": "GO:0043062", "source": "GO" }
+      ]
+    },
+    "dim34_cell_motility_and_migration": {
+      "dimension_name": "Cell motility, migration and chemotaxis",
+      "ontology_terms": [
+        { "name": "Regulation of cell migration", "id": "GO:0030334", "source": "GO" },
+        { "name": "Chemotaxis", "id": "GO:0006935", "source": "GO" },
+        { "name": "Lamellipodium / cell leading edge organization", "id": "GO:0030027", "source": "GO" },
+        { "name": "Axon guidance", "id": "hsa04360", "source": "KEGG" },
+        { "name": "Rho GTPase cycle in cell motility", "id": "R-HSA-9012999", "source": "Reactome" },
+        { "name": "Invadopodium / cell invasion", "id": "GO:0071595", "source": "GO" },
+        { "name": "Leukocyte transendothelial migration", "id": "hsa04670", "source": "KEGG" },
+        { "name": "Chemokine receptor activity", "id": "GO:0004950", "source": "GO" },
+        { "name": "Cell-matrix adhesion turnover during migration", "id": "GO:0034446", "source": "GO" }
+      ]
+    },
+    "dim35_polarity_and_epithelial_barrier_function": {
+      "dimension_name": "Cell polarity and epithelial barrier function",
+      "ontology_terms": [
+        { "name": "Establishment of cell polarity", "id": "GO:0030010", "source": "GO" },
+        { "name": "Apical plasma membrane", "id": "GO:0016324", "source": "GO" },
+        { "name": "Basolateral plasma membrane", "id": "GO:0016323", "source": "GO" },
+        { "name": "Microvillus / brush border organization", "id": "GO:0030033", "source": "GO" },
+        { "name": "Paracellular barrier permeability regulation", "id": "GO:1903140", "source": "GO" },
+        { "name": "Planar cell polarity signaling", "id": "GO:0060071", "source": "GO" },
+        { "name": "Cilium movement / mucociliary clearance", "id": "GO:0003341", "source": "GO" },
+        { "name": "Mucin secretion and O-glycan mucin type biosynthesis", "id": "hsa00512", "source": "KEGG" },
+        { "name": "Keratinization / cornified envelope formation", "id": "R-HSA-6805567", "source": "Reactome" }
+      ]
+    },
+    "dim36_innate_immune_and_pattern_recognition_activity": {
+      "dimension_name": "Innate immune sensing and inflammatory activation",
+      "ontology_terms": [
+        { "name": "Toll-like receptor signaling pathway", "id": "hsa04620", "source": "KEGG" },
+        { "name": "NOD-like receptor signaling pathway", "id": "hsa04621", "source": "KEGG" },
+        { "name": "Cytosolic DNA-sensing (cGAS-STING) pathway", "id": "hsa04623", "source": "KEGG" },
+        { "name": "RIG-I-like receptor signaling pathway", "id": "hsa04622", "source": "KEGG" },
+        { "name": "Interferon alpha/beta signaling", "id": "R-HSA-909733", "source": "Reactome" },
+        { "name": "Inflammasome assembly", "id": "GO:0044546", "source": "GO" },
+        { "name": "Complement and coagulation cascades", "id": "hsa04610", "source": "KEGG" },
+        { "name": "Antimicrobial peptide activity", "id": "GO:0019731", "source": "GO" },
+        { "name": "Neutrophil degranulation", "id": "R-HSA-6798695", "source": "Reactome" },
+        { "name": "Cytokine-cytokine receptor interaction", "id": "hsa04060", "source": "KEGG" },
+        { "name": "Acute inflammatory response", "id": "GO:0002526", "source": "GO" }
+      ]
+    },
+    "dim37_adaptive_immune_and_antigen_presentation": {
+      "dimension_name": "Adaptive immune function and antigen presentation",
+      "ontology_terms": [
+        { "name": "Antigen processing and presentation", "id": "hsa04612", "source": "KEGG" },
+        { "name": "MHC class II antigen presentation", "id": "R-HSA-2132295", "source": "Reactome" },
+        { "name": "T cell receptor signaling pathway", "id": "hsa04660", "source": "KEGG" },
+        { "name": "B cell receptor signaling pathway", "id": "hsa04662", "source": "KEGG" },
+        { "name": "Immunoglobulin production", "id": "GO:0002377", "source": "GO" },
+        { "name": "Natural killer cell mediated cytotoxicity", "id": "hsa04650", "source": "KEGG" },
+        { "name": "Th1/Th2/Th17 cell differentiation", "id": "hsa04658", "source": "KEGG" },
+        { "name": "Immune checkpoint / costimulatory receptor signaling", "id": "GO:0031294", "source": "GO" },
+        { "name": "Fc receptor mediated signaling", "id": "R-HSA-2454202", "source": "Reactome" },
+        { "name": "Regulatory T cell mediated immune tolerance", "id": "GO:0002667", "source": "GO" },
+        { "name": "V(D)J recombination and somatic hypermutation", "id": "GO:0033152", "source": "GO" }
+      ]
+    },
+    "dim38_hypoxia_and_metabolic_stress_adaptation": {
+      "dimension_name": "Hypoxia and metabolic stress adaptation",
+      "ontology_terms": [
+        { "name": "HIF-1 signaling pathway", "id": "hsa04066", "source": "KEGG" },
+        { "name": "Cellular response to hypoxia", "id": "R-HSA-1234174", "source": "Reactome" },
+        { "name": "Cellular response to starvation", "id": "R-HSA-9711097", "source": "Reactome" },
+        { "name": "Heat shock / HSF1-mediated stress response", "id": "R-HSA-3371556", "source": "Reactome" },
+        { "name": "ATF4-mediated amino acid deprivation response", "id": "GO:0034198", "source": "GO" },
+        { "name": "Response to endoplasmic reticulum stress", "id": "GO:0034976", "source": "GO" },
+        { "name": "Mitochondrial unfolded protein response", "id": "GO:0034514", "source": "GO" },
+        { "name": "Osmotic stress response", "id": "GO:0006970", "source": "GO" },
+        { "name": "Oxygen sensing prolyl hydroxylase activity", "id": "GO:0031545", "source": "GO" }
+      ]
+    },
+    "dim39_neuronal_synaptic_transmission": {
+      "dimension_name": "Synaptic transmission and neuronal signaling function",
+      "ontology_terms": [
+        { "name": "Synaptic vesicle cycle", "id": "hsa04721", "source": "KEGG" },
+        { "name": "Glutamatergic synapse", "id": "hsa04724", "source": "KEGG" },
+        { "name": "GABAergic synapse", "id": "hsa04727", "source": "KEGG" },
+        { "name": "Dopaminergic synapse", "id": "hsa04728", "source": "KEGG" },
+        { "name": "Cholinergic synapse", "id": "hsa04725", "source": "KEGG" },
+        { "name": "Serotonergic synapse", "id": "hsa04726", "source": "KEGG" },
+        { "name": "Postsynaptic density organization", "id": "GO:0097481", "source": "GO" },
+        { "name": "Long-term potentiation", "id": "hsa04720", "source": "KEGG" },
+        { "name": "Neurotransmitter reuptake", "id": "GO:0098810", "source": "GO" },
+        { "name": "Myelination", "id": "GO:0042552", "source": "GO" },
+        { "name": "Axon / dendrite morphogenesis", "id": "GO:0048667", "source": "GO" }
+      ]
+    },
+    "dim40_contractile_and_mechanical_effector_function": {
+      "dimension_name": "Contractile and mechanical effector function",
+      "ontology_terms": [
+        { "name": "Cardiac muscle contraction", "id": "hsa04260", "source": "KEGG" },
+        { "name": "Vascular smooth muscle contraction", "id": "hsa04270", "source": "KEGG" },
+        { "name": "Striated muscle contraction", "id": "R-HSA-390522", "source": "Reactome" },
+        { "name": "Sarcomere organization", "id": "GO:0045214", "source": "GO" },
+        { "name": "Calcium release from sarcoplasmic reticulum", "id": "GO:0014808", "source": "GO" },
+        { "name": "Myosin ATPase / motor activity in muscle", "id": "GO:0000146", "source": "GO" },
+        { "name": "Creatine phosphate energy shuttle", "id": "GO:0006600", "source": "GO" },
+        { "name": "Dystrophin-glycoprotein complex", "id": "GO:0016010", "source": "GO" },
+        { "name": "Regulation of muscle contraction by troponin/tropomyosin", "id": "GO:0006937", "source": "GO" }
+      ]
+    },
+    "dim41_hormone_and_peptide_secretory_endocrine_function": {
+      "dimension_name": "Endocrine and peptide hormone secretory function",
+      "ontology_terms": [
+        { "name": "Insulin secretion", "id": "hsa04911", "source": "KEGG" },
+        { "name": "Peptide hormone metabolism", "id": "R-HSA-2980736", "source": "Reactome" },
+        { "name": "Hormone activity", "id": "GO:0005179", "source": "GO" },
+        { "name": "Neuroendocrine dense core granule secretion", "id": "GO:0002139", "source": "GO" },
+        { "name": "Prohormone convertase processing", "id": "GO:0016486", "source": "GO" },
+        { "name": "Thyroid hormone synthesis", "id": "hsa04918", "source": "KEGG" },
+        { "name": "Aldosterone synthesis and secretion", "id": "hsa04925", "source": "KEGG" },
+        { "name": "Gastric acid / gastrointestinal hormone secretion", "id": "hsa04971", "source": "KEGG" },
+        { "name": "Catecholamine biosynthesis and secretion", "id": "GO:0042423", "source": "GO" },
+        { "name": "Eicosanoid / prostaglandin biosynthesis as paracrine mediator", "id": "R-HSA-2162123", "source": "Reactome" }
+      ]
+    },
+    "dim42_intercellular_communication_and_paracrine_signaling": {
+      "dimension_name": "Intercellular and paracrine ligand-receptor communication",
+      "ontology_terms": [
+        { "name": "Signaling by interleukins", "id": "R-HSA-449147", "source": "Reactome" },
+        { "name": "Chemokine signaling pathway", "id": "hsa04062", "source": "KEGG" },
+        { "name": "TNF signaling pathway", "id": "hsa04668", "source": "KEGG" },
+        { "name": "BMP signaling pathway", "id": "GO:0030509", "source": "GO" },
+        { "name": "Ephrin signaling", "id": "R-HSA-2682334", "source": "Reactome" },
+        { "name": "Semaphorin-plexin signaling", "id": "GO:0071526", "source": "GO" },
+        { "name": "Purinergic (ATP/adenosine) extracellular signaling", "id": "GO:0035590", "source": "GO" },
+        { "name": "Growth factor binding", "id": "GO:0019838", "source": "GO" },
+        { "name": "Receptor ligand activity", "id": "GO:0048018", "source": "GO" },
+        { "name": "Cell-cell signaling by tunneling / connexin channels", "id": "GO:0007267", "source": "GO" }
+      ]
+    },
+    "dim43_angiogenic_and_vascular_niche_role": {
+      "dimension_name": "Angiogenic, vascular and hemostatic role",
+      "ontology_terms": [
+        { "name": "Angiogenesis", "id": "GO:0001525", "source": "GO" },
+        { "name": "Blood vessel endothelial cell migration", "id": "GO:0043534", "source": "GO" },
+        { "name": "Platelet activation", "id": "hsa04611", "source": "KEGG" },
+        { "name": "Formation of fibrin clot (clotting cascade)", "id": "R-HSA-140877", "source": "Reactome" },
+        { "name": "Regulation of vascular permeability", "id": "GO:0043114", "source": "GO" },
+        { "name": "Vasoconstriction / vasodilation regulation", "id": "GO:0042310", "source": "GO" },
+        { "name": "Renin-angiotensin system", "id": "hsa04614", "source": "KEGG" },
+        { "name": "Lymphangiogenesis", "id": "GO:0001946", "source": "GO" },
+        { "name": "Pericyte / mural cell recruitment", "id": "GO:0035304", "source": "GO" },
+        { "name": "Endothelial nitric oxide synthase signaling", "id": "R-HSA-203615", "source": "Reactome" }
+      ]
+    },
+    "dim44_wound_healing_regeneration_and_fibrosis": {
+      "dimension_name": "Wound healing, regeneration and fibrotic response",
+      "ontology_terms": [
+        { "name": "Wound healing", "id": "GO:0042060", "source": "GO" },
+        { "name": "Fibroblast activation / myofibroblast differentiation", "id": "GO:0072537", "source": "GO" },
+        { "name": "TGF-beta receptor signaling in fibrosis", "id": "R-HSA-170834", "source": "Reactome" },
+        { "name": "Tissue regeneration", "id": "GO:0031099", "source": "GO" },
+        { "name": "Granulation tissue / collagen fibril organization", "id": "GO:0030199", "source": "GO" },
+        { "name": "Response to wounding via platelet-derived signals", "id": "GO:0009611", "source": "GO" },
+        { "name": "Scar / connective tissue replacement (EMT in fibrosis)", "id": "GO:0010717", "source": "GO" },
+        { "name": "Macrophage-mediated tissue repair polarization", "id": "GO:0002827", "source": "GO" },
+        { "name": "Re-epithelialization", "id": "GO:0035313", "source": "GO" }
+      ]
+    },
+    "dim45_organelle_composition_and_cellular_architecture": {
+      "dimension_name": "Organelle abundance and subcellular architecture",
+      "ontology_terms": [
+        { "name": "Peroxisome", "id": "hsa04146", "source": "KEGG" },
+        { "name": "Golgi apparatus organization", "id": "GO:0007030", "source": "GO" },
+        { "name": "Endoplasmic reticulum organization", "id": "GO:0007029", "source": "GO" },
+        { "name": "Nuclear envelope / nuclear pore complex", "id": "GO:0005643", "source": "GO" },
+        { "name": "Nucleolus organization", "id": "GO:0007000", "source": "GO" },
+        { "name": "Centriole and centrosome organization", "id": "GO:0051297", "source": "GO" },
+        { "name": "Membrane contact site / organelle tethering", "id": "GO:0140056", "source": "GO" },
+        { "name": "Nuclear speckle and paraspeckle organization", "id": "GO:0016607", "source": "GO" },
+        { "name": "Cell size regulation", "id": "GO:0008361", "source": "GO" },
+        { "name": "Ploidy / polyploidization state", "id": "GO:0032875", "source": "GO" }
+      ]
+    },
+    "dim46_circadian_and_temporal_regulation": {
+      "dimension_name": "Circadian and temporal regulatory state",
+      "ontology_terms": [
+        { "name": "Circadian rhythm", "id": "hsa04710", "source": "KEGG" },
+        { "name": "Circadian clock gene expression (BMAL1:CLOCK)", "id": "R-HSA-1368108", "source": "Reactome" },
+        { "name": "Entrainment of circadian clock", "id": "GO:0009649", "source": "GO" },
+        { "name": "Rhythmic regulation of metabolism", "id": "GO:0032922", "source": "GO" },
+        { "name": "Melatonin signaling", "id": "GO:1904344", "source": "GO" },
+        { "name": "Photoperiod / light response signaling", "id": "GO:0009416", "source": "GO" },
+        { "name": "Ultradian and cell-autonomous oscillatory gene expression", "id": "GO:0060381", "source": "GO" },
+        { "name": "PER/CRY-mediated negative feedback", "id": "GO:0042754", "source": "GO" }
+      ]
+    },
+    "dim47_host_pathogen_interaction_and_viral_response": {
+      "dimension_name": "Host-pathogen interaction and antiviral defense",
+      "ontology_terms": [
+        { "name": "Defense response to virus", "id": "GO:0051607", "source": "GO" },
+        { "name": "Antiviral mechanism by IFN-stimulated genes", "id": "R-HSA-1169410", "source": "Reactome" },
+        { "name": "Viral life cycle / host cell entry", "id": "GO:0019058", "source": "GO" },
+        { "name": "Autophagy-mediated intracellular pathogen clearance (xenophagy)", "id": "GO:0098792", "source": "GO" },
+        { "name": "Bacterial invasion of epithelial cells", "id": "hsa05100", "source": "KEGG" },
+        { "name": "Endogenous retrovirus / transposon silencing", "id": "GO:0141005", "source": "GO" },
+        { "name": "RNA interference-based antiviral defense", "id": "GO:0016246", "source": "GO" },
+        { "name": "Restriction factor activity (APOBEC, TRIM, SAMHD1)", "id": "GO:0140374", "source": "GO" },
+        { "name": "Latent viral genome maintenance", "id": "GO:0019046", "source": "GO" }
+      ]
+    },
+    "dim48_malignant_transformation_and_oncogenic_state": {
+      "dimension_name": "Oncogenic transformation and malignancy-associated state",
+      "ontology_terms": [
+        { "name": "Pathways in cancer", "id": "hsa05200", "source": "KEGG" },
+        { "name": "MYC-mediated transcriptional amplification", "id": "GO:0035690", "source": "GO" },
+        { "name": "Transcriptional regulation by TP53", "id": "R-HSA-3700989", "source": "Reactome" },
+        { "name": "Diseases of signal transduction by growth factor receptors", "id": "R-HSA-5663202", "source": "Reactome" },
+        { "name": "Genomic instability / aneuploidy", "id": "GO:0002151", "source": "GO" },
+        { "name": "Warburg-like metabolic reprogramming", "id": "GO:0080183", "source": "GO" },
+        { "name": "Evasion of immune surveillance", "id": "GO:0002837", "source": "GO" },
+        { "name": "Telomerase activation / immortalization", "id": "GO:0007004", "source": "GO" },
+        { "name": "Tumor suppressor gene inactivation (RB1/PTEN axes)", "id": "R-HSA-8848021", "source": "Reactome" },
+        { "name": "Metastatic invasion program", "id": "GO:0010764", "source": "GO" },
+        { "name": "Multidrug resistance / chemoresistance efflux", "id": "hsa01523", "source": "KEGG" }
+      ]
+    }
+  }
+}

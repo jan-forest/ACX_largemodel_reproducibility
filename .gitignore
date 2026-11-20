@@ -1,0 +1,9 @@
+data/*
+!data/.gitkeep
+!data/llm_ontologies/
+
+reports/*
+!reports/.gitkeep
+results/*
+__pycache__/
+ACX_largemodel_results.zip

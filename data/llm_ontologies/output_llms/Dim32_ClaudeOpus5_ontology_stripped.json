@@ -1,0 +1,100 @@
+{
+  "Dim32_ClaudeOpus5_ontology": {
+    "dim01_energy_metabolism_oxidative": {
+      "dimension_name": "Oxidative energy metabolism and mitochondrial respiratory capacity"
+    },
+    "dim02_glycolytic_fermentative_metabolism": {
+      "dimension_name": "Glycolytic and fermentative carbohydrate metabolism"
+    },
+    "dim03_lipid_metabolism_storage": {
+      "dimension_name": "Lipid biosynthesis, storage and lipoprotein handling"
+    },
+    "dim04_amino_acid_nitrogen_metabolism": {
+      "dimension_name": "Amino acid and nitrogen metabolism"
+    },
+    "dim05_nucleotide_metabolism": {
+      "dimension_name": "Nucleotide and cofactor metabolism"
+    },
+    "dim06_transcriptional_machinery": {
+      "dimension_name": "General transcription machinery and RNA polymerase activity"
+    },
+    "dim07_rna_processing_splicing": {
+      "dimension_name": "RNA processing, splicing and RNA turnover"
+    },
+    "dim08_translation_ribosome": {
+      "dimension_name": "Protein synthesis capacity and translational control"
+    },
+    "dim09_protein_folding_quality_control": {
+      "dimension_name": "Protein folding, chaperone activity and proteostasis stress"
+    },
+    "dim10_protein_degradation_autophagy": {
+      "dimension_name": "Protein degradation, ubiquitin system and autophagy flux"
+    },
+    "dim11_secretory_pathway_glycosylation": {
+      "dimension_name": "Secretory capacity, vesicle traffic and protein glycosylation"
+    },
+    "dim12_cell_cycle_proliferation": {
+      "dimension_name": "Cell cycle progression and proliferative activity"
+    },
+    "dim13_dna_repair_genome_stability": {
+      "dimension_name": "DNA damage response and genome maintenance"
+    },
+    "dim14_chromatin_epigenetic_state": {
+      "dimension_name": "Chromatin organization and epigenetic regulation"
+    },
+    "dim15_apoptosis_cell_death": {
+      "dimension_name": "Regulated cell death susceptibility and execution"
+    },
+    "dim16_growth_factor_signaling": {
+      "dimension_name": "Growth factor and receptor tyrosine kinase signaling"
+    },
+    "dim17_developmental_morphogen_signaling": {
+      "dimension_name": "Developmental morphogen signaling and lineage specification"
+    },
+    "dim18_cytoskeleton_motility": {
+      "dimension_name": "Cytoskeletal organization, motility and mechanics"
+    },
+    "dim19_adhesion_ecm_interaction": {
+      "dimension_name": "Cell adhesion and extracellular matrix interaction"
+    },
+    "dim20_membrane_transport_homeostasis": {
+      "dimension_name": "Membrane transport, ion homeostasis and osmoregulation"
+    },
+    "dim21_membrane_potential_excitability": {
+      "dimension_name": "Electrical excitability and synaptic/neurotransmission function"
+    },
+    "dim22_contractility_muscle_function": {
+      "dimension_name": "Contractile apparatus and muscle-type mechanical work"
+    },
+    "dim23_innate_immunity_inflammation": {
+      "dimension_name": "Innate immune sensing and inflammatory response"
+    },
+    "dim24_adaptive_immunity_antigen": {
+      "dimension_name": "Adaptive immune function and antigen presentation"
+    },
+    "dim25_redox_oxidative_stress": {
+      "dimension_name": "Redox balance and oxidative stress defense"
+    },
+    "dim26_xenobiotic_detoxification": {
+      "dimension_name": "Xenobiotic biotransformation and detoxification capacity"
+    },
+    "dim27_hypoxia_nutrient_stress_adaptation": {
+      "dimension_name": "Hypoxia, nutrient deprivation and metabolic stress adaptation"
+    },
+    "dim28_endocrine_hormone_signaling": {
+      "dimension_name": "Hormone production, endocrine signaling and nuclear receptor state"
+    },
+    "dim29_gpcr_second_messenger_signaling": {
+      "dimension_name": "GPCR and second messenger signal transduction"
+    },
+    "dim30_barrier_transport_epithelial_function": {
+      "dimension_name": "Epithelial barrier, polarity and vectorial transport function"
+    },
+    "dim31_intercellular_communication_paracrine": {
+      "dimension_name": "Intercellular communication, ligand secretion and niche crosstalk"
+    },
+    "dim32_circadian_and_temporal_state": {
+      "dimension_name": "Circadian rhythm and temporal state control"
+    }
+  }
+}

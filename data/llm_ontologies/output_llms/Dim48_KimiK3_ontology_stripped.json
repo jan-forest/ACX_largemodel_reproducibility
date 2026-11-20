@@ -1,0 +1,148 @@
+{
+  "Dim48_KimiK3_ontology": {
+    "dim01_carbohydrate_energy_metabolism": {
+      "dimension_name": "Carbohydrate uptake, glycolytic flux and glucose homeostasis"
+    },
+    "dim02_mitochondrial_respiration": {
+      "dimension_name": "Mitochondrial oxidative phosphorylation and respiratory capacity"
+    },
+    "dim03_lipid_sterol_metabolism": {
+      "dimension_name": "Fatty acid, triglyceride, phospholipid and sterol metabolism"
+    },
+    "dim04_amino_acid_nitrogen_metabolism": {
+      "dimension_name": "Amino acid biosynthesis, catabolism and nitrogen disposal"
+    },
+    "dim05_nucleotide_metabolism": {
+      "dimension_name": "Purine and pyrimidine synthesis, salvage and degradation"
+    },
+    "dim06_translation_protein_synthesis": {
+      "dimension_name": "Ribosome abundance, tRNA charging and translational output"
+    },
+    "dim07_protein_folding_er_quality": {
+      "dimension_name": "Protein folding, ER quality control and unfolded protein response"
+    },
+    "dim08_proteolysis_protein_turnover": {
+      "dimension_name": "Ubiquitin-proteasome and selective proteolytic turnover"
+    },
+    "dim09_rna_transcription_processing": {
+      "dimension_name": "Transcriptional activity and RNA maturation, export and decay"
+    },
+    "dim10_chromatin_epigenetic_state": {
+      "dimension_name": "Chromatin accessibility, histone modification and DNA methylation state"
+    },
+    "dim11_genome_replication_repair": {
+      "dimension_name": "DNA replication fidelity and repair pathway engagement"
+    },
+    "dim12_cell_cycle_proliferation": {
+      "dimension_name": "Cell-cycle phase progression, checkpoints and proliferative index"
+    },
+    "dim13_apoptosis_survival_balance": {
+      "dimension_name": "Death receptor, mitochondrial apoptosis and survival signaling balance"
+    },
+    "dim14_autophagy_lysosomal_degradation": {
+      "dimension_name": "Autophagic flux, lysosomal acidification and bulk degradation"
+    },
+    "dim15_secretory_trafficking": {
+      "dimension_name": "ER-to-Golgi trafficking, exocytosis and secretory burden"
+    },
+    "dim16_endocytosis_membrane_dynamics": {
+      "dimension_name": "Clathrin/caveolae uptake, endosomal sorting and membrane recycling"
+    },
+    "dim17_cytoskeleton_motility": {
+      "dimension_name": "Actin, microtubule and intermediate filament dynamics powering shape and movement"
+    },
+    "dim18_adhesion_ecm_interaction": {
+      "dimension_name": "Cell-matrix adhesion, integrin engagement and substrate sensing"
+    },
+    "dim19_junctions_polarity_barrier": {
+      "dimension_name": "Intercellular junctions, apicobasal polarity and barrier integrity"
+    },
+    "dim20_growth_factor_signaling": {
+      "dimension_name": "RTK, MAPK, PI3K-AKT and mTOR growth signaling intensity"
+    },
+    "dim21_stress_hypoxia_response": {
+      "dimension_name": "Oxygen sensing, nutrient stress and integrated stress response"
+    },
+    "dim22_redox_detoxification": {
+      "dimension_name": "Reactive oxygen species handling, glutathione and thioredoxin systems"
+    },
+    "dim23_innate_immunity_inflammation": {
+      "dimension_name": "Pattern recognition, inflammasome activation and inflammatory mediator production"
+    },
+    "dim24_adaptive_immunity_antigen": {
+      "dimension_name": "Antigen presentation, lymphocyte receptor signaling and adaptive immune function"
+    },
+    "dim25_cytokine_communication": {
+      "dimension_name": "Cytokine, chemokine and JAK-STAT-mediated intercellular communication"
+    },
+    "dim26_hematopoietic_lineage": {
+      "dimension_name": "Hematopoietic differentiation state and immune-cell lineage identity"
+    },
+    "dim27_stemness_differentiation": {
+      "dimension_name": "Pluripotency, lineage commitment and differentiation trajectory"
+    },
+    "dim28_senescence_aging": {
+      "dimension_name": "Senescence-associated arrest, SASP and aging-associated decline"
+    },
+    "dim29_circadian_timing": {
+      "dimension_name": "Circadian clock phase and rhythmic metabolic coordination"
+    },
+    "dim30_ion_transport_homeostasis": {
+      "dimension_name": "Plasma membrane and organellar ion transport and electrochemical gradients"
+    },
+    "dim31_calcium_signaling": {
+      "dimension_name": "Calcium release, buffering, store-operated entry and calcium effectors"
+    },
+    "dim32_er_golgi_organelle_state": {
+      "dimension_name": "ER-Golgi architecture, cargo load and organelle homeostasis"
+    },
+    "dim33_peroxisome_function": {
+      "dimension_name": "Peroxisomal beta-oxidation, ether lipid synthesis and ROS metabolism"
+    },
+    "dim34_nuclear_transport_compartment": {
+      "dimension_name": "Nuclear pore transport, lamina organization and nucleocytoplasmic shuttling"
+    },
+    "dim35_ecm_remodeling_proteases": {
+      "dimension_name": "Matrix metalloprotease activity, collagen turnover and tissue remodeling"
+    },
+    "dim36_angiogenesis_vascular": {
+      "dimension_name": "Endothelial activation, VEGF response and vascular morphogenesis"
+    },
+    "dim37_neural_signaling_excitability": {
+      "dimension_name": "Neuronal excitability, neurotransmitter handling and synaptic transmission"
+    },
+    "dim38_contractile_muscle_function": {
+      "dimension_name": "Sarcomeric contraction, calcium handling and muscle energy coupling"
+    },
+    "dim39_epithelial_transport_barrier": {
+      "dimension_name": "Epithelial solute absorption/secretion and mucosal barrier specialization"
+    },
+    "dim40_hormone_metabolic_response": {
+      "dimension_name": "Endocrine hormone sensing and systemic metabolic adaptation"
+    },
+    "dim41_xenobiotic_drug_handling": {
+      "dimension_name": "Detoxification enzymes, transporters and drug/xenobiotic response"
+    },
+    "dim42_migration_invasion": {
+      "dimension_name": "Directed migration, invasion and guidance-cue responsiveness"
+    },
+    "dim43_phagocytosis_clearance": {
+      "dimension_name": "Engulfment, corpse clearance and microbial killing capacity"
+    },
+    "dim44_morphogen_developmental_signaling": {
+      "dimension_name": "TGF-beta/BMP, Hedgehog and developmental morphogen pathway state"
+    },
+    "dim45_mechanotransduction": {
+      "dimension_name": "Force sensing through cytoskeleton, YAP/TAZ and adhesion-linked transcription"
+    },
+    "dim46_posttranscriptional_rna_control": {
+      "dimension_name": "microRNA, RNA-binding protein and translational repression landscape"
+    },
+    "dim47_ubi_sumo_signal_editing": {
+      "dimension_name": "Ubiquitin-like modifications that tune signaling, localization and fate"
+    },
+    "dim48_effector_secretory_specialization": {
+      "dimension_name": "Cell-type-specific effector output such as enzymes, antibodies, mucus or hormones"
+    }
+  }
+}

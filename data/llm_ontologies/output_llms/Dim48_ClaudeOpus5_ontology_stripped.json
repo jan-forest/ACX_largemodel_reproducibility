@@ -1,0 +1,148 @@
+{
+  "Dim48_ClaudeOpus5_ontology": {
+    "dim01_glucose_catabolism_glycolytic_flux": {
+      "dimension_name": "Glycolytic flux and glucose catabolism"
+    },
+    "dim02_mitochondrial_oxidative_energy_production": {
+      "dimension_name": "Mitochondrial respiration and oxidative energy production"
+    },
+    "dim03_lipid_catabolism_fatty_acid_oxidation": {
+      "dimension_name": "Fatty acid oxidation and lipid catabolism"
+    },
+    "dim04_lipid_biosynthesis_storage": {
+      "dimension_name": "Lipid and sterol biosynthesis and lipid storage"
+    },
+    "dim05_amino_acid_and_nitrogen_metabolism": {
+      "dimension_name": "Amino acid and nitrogen metabolism"
+    },
+    "dim06_nucleotide_metabolism": {
+      "dimension_name": "Nucleotide biosynthesis and salvage"
+    },
+    "dim07_protein_synthesis_translation_capacity": {
+      "dimension_name": "Translation capacity and ribosome content"
+    },
+    "dim08_protein_folding_er_processing": {
+      "dimension_name": "ER protein folding, glycosylation and quality control"
+    },
+    "dim09_protein_degradation_proteostasis": {
+      "dimension_name": "Proteasomal degradation and ubiquitin proteostasis"
+    },
+    "dim10_autophagy_lysosomal_function": {
+      "dimension_name": "Autophagy and lysosomal degradative capacity"
+    },
+    "dim11_redox_homeostasis_oxidative_stress": {
+      "dimension_name": "Redox homeostasis and oxidative stress defense"
+    },
+    "dim12_xenobiotic_detoxification": {
+      "dimension_name": "Xenobiotic and drug biotransformation capacity"
+    },
+    "dim13_metal_ion_and_micronutrient_handling": {
+      "dimension_name": "Metal ion and micronutrient homeostasis"
+    },
+    "dim14_cell_cycle_proliferative_activity": {
+      "dimension_name": "Cell cycle progression and proliferative activity"
+    },
+    "dim15_dna_replication_genome_maintenance": {
+      "dimension_name": "DNA damage response and genome maintenance"
+    },
+    "dim16_chromatin_epigenetic_state": {
+      "dimension_name": "Chromatin organization and epigenetic state"
+    },
+    "dim17_transcriptional_regulatory_program": {
+      "dimension_name": "General transcription machinery and transcriptional regulation"
+    },
+    "dim18_rna_processing_and_turnover": {
+      "dimension_name": "RNA processing, splicing and turnover"
+    },
+    "dim19_apoptotic_and_programmed_death_propensity": {
+      "dimension_name": "Apoptotic and regulated cell death propensity"
+    },
+    "dim20_senescence_and_aging_state": {
+      "dimension_name": "Cellular senescence and aging state"
+    },
+    "dim21_stemness_and_self_renewal": {
+      "dimension_name": "Stemness, pluripotency and self-renewal potential"
+    },
+    "dim22_differentiation_and_developmental_lineage_program": {
+      "dimension_name": "Differentiation state and developmental lineage program"
+    },
+    "dim23_growth_factor_and_receptor_tyrosine_kinase_signaling": {
+      "dimension_name": "Growth factor and receptor tyrosine kinase signaling"
+    },
+    "dim24_gpcr_and_second_messenger_signaling": {
+      "dimension_name": "GPCR and second messenger signaling"
+    },
+    "dim25_nuclear_receptor_and_hormone_responsiveness": {
+      "dimension_name": "Nuclear receptor and hormone responsiveness"
+    },
+    "dim26_intracellular_kinase_phosphatase_network": {
+      "dimension_name": "Intracellular kinase-phosphatase signaling network"
+    },
+    "dim27_ion_transport_and_membrane_excitability": {
+      "dimension_name": "Ion transport and membrane electrical excitability"
+    },
+    "dim28_nutrient_and_solute_transporter_repertoire": {
+      "dimension_name": "Nutrient and solute transporter repertoire"
+    },
+    "dim29_secretory_pathway_and_vesicle_trafficking": {
+      "dimension_name": "Secretory pathway and intracellular vesicle trafficking"
+    },
+    "dim30_endocytosis_and_receptor_internalization": {
+      "dimension_name": "Endocytosis, phagocytosis and receptor internalization"
+    },
+    "dim31_cytoskeleton_organization_and_mechanics": {
+      "dimension_name": "Cytoskeletal organization and cell mechanics"
+    },
+    "dim32_cell_adhesion_and_junctional_organization": {
+      "dimension_name": "Cell adhesion and junctional organization"
+    },
+    "dim33_extracellular_matrix_production_and_remodeling": {
+      "dimension_name": "Extracellular matrix production and remodeling"
+    },
+    "dim34_cell_motility_and_migration": {
+      "dimension_name": "Cell motility, migration and chemotaxis"
+    },
+    "dim35_polarity_and_epithelial_barrier_function": {
+      "dimension_name": "Cell polarity and epithelial barrier function"
+    },
+    "dim36_innate_immune_and_pattern_recognition_activity": {
+      "dimension_name": "Innate immune sensing and inflammatory activation"
+    },
+    "dim37_adaptive_immune_and_antigen_presentation": {
+      "dimension_name": "Adaptive immune function and antigen presentation"
+    },
+    "dim38_hypoxia_and_metabolic_stress_adaptation": {
+      "dimension_name": "Hypoxia and metabolic stress adaptation"
+    },
+    "dim39_neuronal_synaptic_transmission": {
+      "dimension_name": "Synaptic transmission and neuronal signaling function"
+    },
+    "dim40_contractile_and_mechanical_effector_function": {
+      "dimension_name": "Contractile and mechanical effector function"
+    },
+    "dim41_hormone_and_peptide_secretory_endocrine_function": {
+      "dimension_name": "Endocrine and peptide hormone secretory function"
+    },
+    "dim42_intercellular_communication_and_paracrine_signaling": {
+      "dimension_name": "Intercellular and paracrine ligand-receptor communication"
+    },
+    "dim43_angiogenic_and_vascular_niche_role": {
+      "dimension_name": "Angiogenic, vascular and hemostatic role"
+    },
+    "dim44_wound_healing_regeneration_and_fibrosis": {
+      "dimension_name": "Wound healing, regeneration and fibrotic response"
+    },
+    "dim45_organelle_composition_and_cellular_architecture": {
+      "dimension_name": "Organelle abundance and subcellular architecture"
+    },
+    "dim46_circadian_and_temporal_regulation": {
+      "dimension_name": "Circadian and temporal regulatory state"
+    },
+    "dim47_host_pathogen_interaction_and_viral_response": {
+      "dimension_name": "Host-pathogen interaction and antiviral defense"
+    },
+    "dim48_malignant_transformation_and_oncogenic_state": {
+      "dimension_name": "Oncogenic transformation and malignancy-associated state"
+    }
+  }
+}

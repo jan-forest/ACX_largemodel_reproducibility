@@ -1,0 +1,25 @@
+{
+  "DimX_LLM-Model-name_ontology": {
+    "dim01_a_cell_dimension": {
+      "dimension_name": "A cellular function and dimension",
+      "ontology_terms": [
+        { "name": "Glycolysis / Gluconeogenesis", "id": "hsa00010", "source": "KEGG" },
+        { "name": "Citric Acid (TCA) Cycle", "id": "R-HSA-71403", "source": "Reactome" },
+        { "name": "Oxidative Phosphorylation", "id": "hsa00190", "source": "KEGG" },
+        { "name": "Fatty Acid Beta-Oxidation", "id": "R-HSA-77289", "source": "Reactome" },
+        { "name": "Amino Acid Metabolism", "id": "hsa00250", "source": "KEGG" }
+      ]
+    },
+    "dim02_another_cell_dimension": {
+      "dimension_name": "Another cellular function and dimension",
+      "ontology_terms": [
+        { "name": "Ribosome Biogenesis", "id": "R-HSA-72613", "source": "Reactome" },
+        { "name": "Aminoacyl-tRNA Biosynthesis", "id": "hsa00970", "source": "KEGG" },
+        { "name": "Pyrimidine Metabolism", "id": "hsa00240", "source": "KEGG" },
+        { "name": "Fatty Acid Biosynthesis", "id": "hsa00061", "source": "KEGG" },
+        { "name": "Cellular response to growth factor stimulus", "id": "GO:0071363", "source": "GO" },
+        { "name": "Cholesterol Biosynthesis", "id": "R-HSA-191273", "source": "Reactome" }
+      ]
+    }
+  }
+}

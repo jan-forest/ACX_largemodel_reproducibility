@@ -1,0 +1,120 @@
+{
+  "model1_name": "Dim16_ClaudeOpus5_ontology",
+  "model2_name": "Dim32_GPT5.6_TerraPro_ontology",
+  "matches": [
+    {
+      "match_id": "match_01",
+      "score": 0.98,
+      "model1_dimensions": ["dim03_proliferation_cell_cycle"],
+      "model2_dimensions": ["dim12_cell_cycle"]
+    },
+    {
+      "match_id": "match_02",
+      "score": 0.96,
+      "model1_dimensions": ["dim04_genome_maintenance"],
+      "model2_dimensions": ["dim11_dna_replication_repair"]
+    },
+    {
+      "match_id": "match_03",
+      "score": 0.96,
+      "model1_dimensions": ["dim11_membrane_transport_and_homeostasis"],
+      "model2_dimensions": ["dim15_membrane_transport"]
+    },
+    {
+      "match_id": "match_04",
+      "score": 0.95,
+      "model1_dimensions": ["dim01_energy_metabolism"],
+      "model2_dimensions": ["dim01_energy_generation"]
+    },
+    {
+      "match_id": "match_05",
+      "score": 0.94,
+      "model1_dimensions": ["dim15_cell_death_and_turnover"],
+      "model2_dimensions": ["dim13_cell_death_survival"]
+    },
+    {
+      "match_id": "match_06",
+      "score": 0.92,
+      "model1_dimensions": ["dim06_protein_synthesis_and_proteostasis"],
+      "model2_dimensions": ["dim07_protein_synthesis", "dim08_protein_quality_control"]
+    },
+    {
+      "match_id": "match_07",
+      "score": 0.91,
+      "model1_dimensions": ["dim05_transcriptional_regulation"],
+      "model2_dimensions": ["dim09_transcriptional_regulation", "dim10_rna_processing"]
+    },
+    {
+      "match_id": "match_08",
+      "score": 0.90,
+      "model1_dimensions": ["dim14_stress_response_and_redox"],
+      "model2_dimensions": ["dim05_redox_detoxification", "dim14_senescence_stress"]
+    },
+    {
+      "match_id": "match_09",
+      "score": 0.89,
+      "model1_dimensions": ["dim07_secretory_capacity"],
+      "model2_dimensions": ["dim16_vesicle_traffic", "dim17_secretory_function"]
+    },
+    {
+      "match_id": "match_10",
+      "score": 0.87,
+      "model1_dimensions": ["dim10_cytoskeleton_and_motility"],
+      "model2_dimensions": ["dim19_cytoskeleton_motility", "dim30_muscle_contractile_function"]
+    },
+    {
+      "match_id": "match_11",
+      "score": 0.86,
+      "model1_dimensions": ["dim02_biosynthetic_anabolism"],
+      "model2_dimensions": ["dim02_lipid_metabolism", "dim03_amino_acid_metabolism", "dim04_nucleotide_metabolism"]
+    },
+    {
+      "match_id": "match_12",
+      "score": 0.85,
+      "model1_dimensions": ["dim08_signal_transduction_competence"],
+      "model2_dimensions": ["dim20_receptor_signal_transduction", "dim21_growth_factor_response"]
+    },
+    {
+      "match_id": "match_13",
+      "score": 0.82,
+      "model1_dimensions": ["dim12_electrical_excitability_and_neurotransmission"],
+      "model2_dimensions": ["dim29_neural_excitable_function"]
+    },
+    {
+      "match_id": "match_14",
+      "score": 0.80,
+      "model1_dimensions": ["dim09_cell_adhesion_and_matrix"],
+      "model2_dimensions": ["dim18_cell_adhesion_ecm", "dim27_epithelial_polarity_barrier", "dim28_endothelial_vascular_function"]
+    },
+    {
+      "match_id": "match_15",
+      "score": 0.78,
+      "model1_dimensions": ["dim13_immune_and_inflammatory_function"],
+      "model2_dimensions": ["dim22_innate_immunity", "dim23_adaptive_immunity", "dim24_antigen_phagocyte_function", "dim25_cell_communication_ligands"]
+    },
+    {
+      "match_id": "match_16",
+      "score": 0.75,
+      "model1_dimensions": ["dim16_differentiation_state_and_lineage_identity"],
+      "model2_dimensions": ["dim26_developmental_identity"]
+    },
+    {
+      "match_id": "match_17",
+      "score": 0.58,
+      "model1_dimensions": ["dim07_secretory_capacity"],
+      "model2_dimensions": ["dim31_specialized_metabolic_secretion"]
+    },
+    {
+      "match_id": "match_18",
+      "score": 0.45,
+      "model1_dimensions": ["dim01_energy_metabolism"],
+      "model2_dimensions": ["dim06_mitochondrial_state"]
+    },
+    {
+      "match_id": "match_19",
+      "score": 0.38,
+      "model1_dimensions": ["dim14_stress_response_and_redox"],
+      "model2_dimensions": ["dim32_organelle_and_lysosome_state"]
+    }
+  ]
+}

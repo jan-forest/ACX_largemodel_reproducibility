@@ -1,0 +1,138 @@
+{
+  "Task1_Monocytes": [
+    { "name": "classical monocyte", "id": "CL:0000860" },
+    { "name": "non-classical monocyte", "id": "CL:0000875" },
+    { "name": "CD14-positive monocyte", "id": "CL:0001054" },
+    { "name": "CD14-positive, CD16-positive monocyte", "id": "CL:0002397" }
+  ],
+  "Task2_B-Cells": [
+    { "name": "naive B cell", "id": "CL:0000788" },
+    { "name": "memory B cell", "id": "CL:0000787" },
+    { "name": "mature B cell", "id": "CL:0000785" },
+    { "name": "germinal center B cell", "id": "CL:0000844" }
+  ],
+  "Task3_Plasma-Cells": [
+    { "name": "IgA plasma cell", "id": "CL:0000987" },
+    { "name": "IgG plasma cell", "id": "CL:0000985" },
+    { "name": "plasmablast", "id": "CL:0000980" },
+    { "name": "plasma cell", "id": "CL:0000786" }
+  ],
+  "Task4_CD4-T-Cells": [
+    { "name": "naive thymus-derived CD4-positive, alpha-beta T cell", "id": "CL:0000895" },
+    { "name": "central memory CD4-positive, alpha-beta T cell", "id": "CL:0000904" },
+    { "name": "effector memory CD4-positive, alpha-beta T cell", "id": "CL:0000905" },
+    { "name": "T follicular helper cell", "id": "CL:0002038" }
+  ],
+  "Task5_CD8-T-Cells": [
+    { "name": "naive thymus-derived CD8-positive, alpha-beta T cell", "id": "CL:0000900" },
+    { "name": "central memory CD8-positive, alpha-beta T cell", "id": "CL:0000907" },
+    { "name": "effector memory CD8-positive, alpha-beta T cell", "id": "CL:0000913" },
+    { "name": "effector memory CD8-positive, alpha-beta T cell, terminally differentiated", "id": "CL:0001062" }
+  ],
+  "Task6_Dendritic-Cells": [
+    { "name": "conventional dendritic cell", "id": "CL:0000990" },
+    { "name": "plasmacytoid dendritic cell", "id": "CL:0000784" },
+    { "name": "CD1c-positive myeloid dendritic cell", "id": "CL:0002399" }
+  ],
+  "Task7_NK-Cells": [
+    { "name": "CD16-negative, CD56-bright natural killer cell, human", "id": "CL:0000938" },
+    { "name": "CD16-positive, CD56-dim natural killer cell, human", "id": "CL:0000939" },
+    { "name": "natural killer cell", "id": "CL:0000623" }
+  ],
+  "Task8_Vascular-Endothelium": [
+    { "name": "endothelial cell of artery", "id": "CL:1000413" },
+    { "name": "endothelial cell of venule", "id": "CL:1000414" },
+    { "name": "capillary endothelial cell", "id": "CL:0002144" },
+    { "name": "vein endothelial cell", "id": "CL:0002543" }
+  ],
+  "Task9_Organ-Endothelium": [
+    { "name": "endothelial cell of lymphatic vessel", "id": "CL:0002138" },
+    { "name": "vein endothelial cell of respiratory system", "id": "CL:4033008" },
+    { "name": "blood vessel endothelial cell", "id": "CL:0000071" }
+  ],
+  "Task10_Smooth-Muscle": [
+    { "name": "vascular associated smooth muscle cell", "id": "CL:0000359" },
+    { "name": "blood vessel smooth muscle cell", "id": "CL:0019018" },
+    { "name": "enteric smooth muscle cell", "id": "CL:0002504" },
+    { "name": "smooth muscle cell", "id": "CL:0000192" }
+  ],
+  "Task11_Fibroblasts": [
+    { "name": "myofibroblast cell", "id": "CL:0000186" },
+    { "name": "skin fibroblast", "id": "CL:0002620" },
+    { "name": "alveolar type 1 fibroblast cell", "id": "CL:4028004" },
+    { "name": "fibroblast", "id": "CL:0000057" }
+  ],
+  "Task12_Macrophages": [
+    { "name": "alveolar macrophage", "id": "CL:0000583" },
+    { "name": "elicited macrophage", "id": "CL:0000861" },
+    { "name": "macrophage", "id": "CL:0000235" }
+  ],
+  "Task13_Lung-Epithelium": [
+    { "name": "pulmonary alveolar type 1 cell", "id": "CL:0002062" },
+    { "name": "pulmonary alveolar type 2 cell", "id": "CL:0002063" },
+    { "name": "club cell", "id": "CL:0000158" },
+    { "name": "ciliated cell", "id": "CL:0000064" }
+  ],
+  "Task14_Basal-Cells": [
+    { "name": "basal cell", "id": "CL:0000646" },
+    { "name": "respiratory basal cell", "id": "CL:0002633" }
+  ],
+  "Task15_Goblet-Cells": [
+    { "name": "goblet cell", "id": "CL:0000160" },
+    { "name": "nasal mucosa goblet cell", "id": "CL:0002480" },
+    { "name": "intestine goblet cell", "id": "CL:0019031" }
+  ],
+  "Task16_Intestinal-Epithelium": [
+    { "name": "enterocyte", "id": "CL:0000584" },
+    { "name": "colonocyte", "id": "CL:1000347" },
+    { "name": "gut absorptive cell", "id": "CL:0000677" },
+    { "name": "intestinal epithelial cell", "id": "CL:0002563" }
+  ],
+  "Task17_Nervous-System": [
+    { "name": "neuron", "id": "CL:0000540" },
+    { "name": "astrocyte", "id": "CL:0000127" },
+    { "name": "oligodendrocyte", "id": "CL:0000128" },
+    { "name": "microglial cell", "id": "CL:0000129" }
+  ],
+  "Task18_Neural-Progenitors": [
+    { "name": "neuroblast (sensu Vertebrata)", "id": "CL:0000031" },
+    { "name": "oligodendrocyte precursor cell", "id": "CL:0002453" },
+    { "name": "Schwann cell", "id": "CL:0002573" }
+  ],
+  "Task19_Stem-Progenitors": [
+    { "name": "hematopoietic multipotent progenitor cell", "id": "CL:0000837" },
+    { "name": "common myeloid progenitor", "id": "CL:0000049" },
+    { "name": "mesenchymal stem cell", "id": "CL:0000134" },
+    { "name": "stem cell", "id": "CL:0000034" }
+  ],
+  "Task20_Regulatory-T-Cells": [
+    { "name": "regulatory T cell", "id": "CL:0000815" },
+    { "name": "CD4-positive, CD25-positive, alpha-beta regulatory T cell", "id": "CL:0000792" }
+  ],
+  "Task21_ILC": [
+    { "name": "innate lymphoid cell", "id": "CL:0001065" },
+    { "name": "immature innate lymphoid cell", "id": "CL:0001082" }
+  ],
+  "Task22_Mural-Cells": [
+    { "name": "pericyte", "id": "CL:0000669" },
+    { "name": "mural cell", "id": "CL:0008034" },
+    { "name": "perivascular cell", "id": "CL:4033054" }
+  ],
+  "Task23_Blood-Lineage": [
+    { "name": "erythrocyte", "id": "CL:0000232" },
+    { "name": "neutrophil", "id": "CL:0000775" },
+    { "name": "megakaryocyte", "id": "CL:0000556" },
+    { "name": "leukocyte", "id": "CL:0000738" }
+  ],
+  "Task24_Connective-Tissue": [
+    { "name": "chondrocyte", "id": "CL:0000138" },
+    { "name": "adipocyte", "id": "CL:0000136" },
+    { "name": "stromal cell", "id": "CL:0000499" }
+  ],
+  "Task25_Secretory-Epithelium": [
+    { "name": "mesothelial cell", "id": "CL:0000077" },
+    { "name": "choroid plexus epithelial cell", "id": "CL:0000706" },
+    { "name": "fallopian tube secretory epithelial cell", "id": "CL:4030006" },
+    { "name": "secretory cell", "id": "CL:0000151" }
+  ]
+}

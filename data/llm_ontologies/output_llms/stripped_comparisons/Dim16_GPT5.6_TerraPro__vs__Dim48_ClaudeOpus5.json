@@ -1,0 +1,219 @@
+{
+  "model1_name": "Dim16_GPT5.6_TerraPro_ontology",
+  "model2_name": "Dim48_ClaudeOpus5_ontology",
+  "matches": [
+    {
+      "match_id": "match_01",
+      "score": 0.95,
+      "model1_dimensions": [
+        "dim04_cell_cycle_proliferation_and_division"
+      ],
+      "model2_dimensions": [
+        "dim14_cell_cycle_proliferative_activity"
+      ]
+    },
+    {
+      "match_id": "match_02",
+      "score": 0.94,
+      "model1_dimensions": [
+        "dim05_genome_integrity_and_dna_repair"
+      ],
+      "model2_dimensions": [
+        "dim15_dna_replication_genome_maintenance"
+      ]
+    },
+    {
+      "match_id": "match_03",
+      "score": 0.93,
+      "model1_dimensions": [
+        "dim07_chromatin_epigenetic_state_and_gene_silencing"
+      ],
+      "model2_dimensions": [
+        "dim16_chromatin_epigenetic_state"
+      ]
+    },
+    {
+      "match_id": "match_04",
+      "score": 0.92,
+      "model1_dimensions": [
+        "dim06_transcription_rna_processing_and_posttranscriptional_control"
+      ],
+      "model2_dimensions": [
+        "dim17_transcriptional_regulatory_program",
+        "dim18_rna_processing_and_turnover"
+      ]
+    },
+    {
+      "match_id": "match_05",
+      "score": 0.9,
+      "model1_dimensions": [
+        "dim03_protein_synthesis_folding_and_turnover"
+      ],
+      "model2_dimensions": [
+        "dim07_protein_synthesis_translation_capacity",
+        "dim08_protein_folding_er_processing",
+        "dim09_protein_degradation_proteostasis"
+      ]
+    },
+    {
+      "match_id": "match_06",
+      "score": 0.89,
+      "model1_dimensions": [
+        "dim14_lineage_identity_differentiation_and_developmental_program"
+      ],
+      "model2_dimensions": [
+        "dim21_stemness_and_self_renewal",
+        "dim22_differentiation_and_developmental_lineage_program"
+      ]
+    },
+    {
+      "match_id": "match_07",
+      "score": 0.88,
+      "model1_dimensions": [
+        "dim15_membrane_transport_ion_homeostasis_and_electrophysiology"
+      ],
+      "model2_dimensions": [
+        "dim27_ion_transport_and_membrane_excitability",
+        "dim28_nutrient_and_solute_transporter_repertoire"
+      ]
+    },
+    {
+      "match_id": "match_08",
+      "score": 0.87,
+      "model1_dimensions": [
+        "dim01_energy_production_and_central_catabolism"
+      ],
+      "model2_dimensions": [
+        "dim01_glucose_catabolism_glycolytic_flux",
+        "dim02_mitochondrial_oxidative_energy_production",
+        "dim03_lipid_catabolism_fatty_acid_oxidation"
+      ]
+    },
+    {
+      "match_id": "match_09",
+      "score": 0.86,
+      "model1_dimensions": [
+        "dim02_anabolic_biosynthesis_and_biomass_generation"
+      ],
+      "model2_dimensions": [
+        "dim04_lipid_biosynthesis_storage",
+        "dim05_amino_acid_and_nitrogen_metabolism",
+        "dim06_nucleotide_metabolism"
+      ]
+    },
+    {
+      "match_id": "match_10",
+      "score": 0.84,
+      "model1_dimensions": [
+        "dim13_cellular_stress_autophagy_and_cell_fate"
+      ],
+      "model2_dimensions": [
+        "dim10_autophagy_lysosomal_function",
+        "dim19_apoptotic_and_programmed_death_propensity",
+        "dim20_senescence_and_aging_state",
+        "dim38_hypoxia_and_metabolic_stress_adaptation"
+      ]
+    },
+    {
+      "match_id": "match_11",
+      "score": 0.83,
+      "model1_dimensions": [
+        "dim16_redox_detoxification_and_xenobiotic_metabolism"
+      ],
+      "model2_dimensions": [
+        "dim11_redox_homeostasis_oxidative_stress",
+        "dim12_xenobiotic_detoxification",
+        "dim13_metal_ion_and_micronutrient_handling"
+      ]
+    },
+    {
+      "match_id": "match_12",
+      "score": 0.81,
+      "model1_dimensions": [
+        "dim10_signal_reception_and_intracellular_signal_transduction"
+      ],
+      "model2_dimensions": [
+        "dim23_growth_factor_and_receptor_tyrosine_kinase_signaling",
+        "dim24_gpcr_and_second_messenger_signaling",
+        "dim25_nuclear_receptor_and_hormone_responsiveness",
+        "dim26_intracellular_kinase_phosphatase_network",
+        "dim42_intercellular_communication_and_paracrine_signaling"
+      ]
+    },
+    {
+      "match_id": "match_13",
+      "score": 0.79,
+      "model1_dimensions": [
+        "dim12_immune_surveillance_inflammation_and_host_defense"
+      ],
+      "model2_dimensions": [
+        "dim36_innate_immune_and_pattern_recognition_activity",
+        "dim37_adaptive_immune_and_antigen_presentation",
+        "dim47_host_pathogen_interaction_and_viral_response"
+      ]
+    },
+    {
+      "match_id": "match_14",
+      "score": 0.77,
+      "model1_dimensions": [
+        "dim08_organelle_biogenesis_and_intracellular_trafficking"
+      ],
+      "model2_dimensions": [
+        "dim29_secretory_pathway_and_vesicle_trafficking",
+        "dim30_endocytosis_and_receptor_internalization",
+        "dim45_organelle_composition_and_cellular_architecture"
+      ]
+    },
+    {
+      "match_id": "match_15",
+      "score": 0.75,
+      "model1_dimensions": [
+        "dim09_cytoskeleton_motility_and_cell_adhesion"
+      ],
+      "model2_dimensions": [
+        "dim31_cytoskeleton_organization_and_mechanics",
+        "dim32_cell_adhesion_and_junctional_organization",
+        "dim34_cell_motility_and_migration",
+        "dim35_polarity_and_epithelial_barrier_function",
+        "dim40_contractile_and_mechanical_effector_function"
+      ]
+    },
+    {
+      "match_id": "match_16",
+      "score": 0.74,
+      "model1_dimensions": [
+        "dim11_secretion_extracellular_matrix_and_tissue_remodeling"
+      ],
+      "model2_dimensions": [
+        "dim33_extracellular_matrix_production_and_remodeling",
+        "dim41_hormone_and_peptide_secretory_endocrine_function",
+        "dim43_angiogenic_and_vascular_niche_role",
+        "dim44_wound_healing_regeneration_and_fibrosis"
+      ]
+    },
+    {
+      "match_id": "match_17",
+      "score": 0.0,
+      "model1_dimensions": [],
+      "model2_dimensions": [
+        "dim39_neuronal_synaptic_transmission"
+      ]
+    },
+    {
+      "match_id": "match_18",
+      "score": 0.0,
+      "model1_dimensions": [],
+      "model2_dimensions": [
+        "dim46_circadian_and_temporal_regulation"
+      ]
+    },
+    {
+      "match_id": "match_19",
+      "score": 0.0,
+      "model1_dimensions": [],
+      "model2_dimensions": [
+        "dim48_malignant_transformation_and_oncogenic_state"
+      ]
+    }
+  ]
+}

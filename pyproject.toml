@@ -1,0 +1,14 @@
+[project]
+name = "acx-largemodel-reproducibility"
+version = "0.1.0"
+description = "Reproducibility code for large-model AUTOENCODIX experiments"
+requires-python = "==3.10.6"
+dependencies = [
+    "autoencodix==0.2.4",
+    "syne-tune[extra]==0.16.0",
+    "mygene",
+	"cellxgene_census",
+    "pronto",
+    "celltypist",
+    "huggingface_hub",
+]
